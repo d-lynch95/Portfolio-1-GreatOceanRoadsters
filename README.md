@@ -121,9 +121,29 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+
+
+<!--
+- The following websites were used to source information on the different attractions : 
+
+https://www.visitmelbourne.com/
+https://visitgreatoceanroad.org.au/
+https://visitapollobay.com/
+https://visit12apostles.com.au/
+https://www.greatoceanroadaustralia.org/
+https://greatoceanroadmelbournetours.com.au/
+https://www.parks.vic.gov.au/
+
+
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+
+-->
 ### Media
+
+<!--
+The hero image and the images for the itinerary page were taken from pexels.com
+-->
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
