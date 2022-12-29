@@ -80,7 +80,8 @@ You should also mention in this section any interesting bugs or problems you dis
   I encountered several bugs while creating this project.
 
   There were issues with the icons and social media links located in the footer. I struggled to correctly format links to the external sites while creating links in the icons.
-  This was corrected by adding "HTTPS://" to the front of the href aswell aswell as adding the target="_blank" attribute
+  This was corrected by adding "HTTPS://" to the front of the href aswell aswell as adding the target="_blank" attribute.
+  I was also having issues with the icons duplicating themselves with one icon having an active link and the second icon not having a link. This was due to an issue with missing closing tags on our <i> element and was quickly corrected after some testing.
 
  -->
 
