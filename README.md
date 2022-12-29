@@ -76,6 +76,14 @@ In addition, you should mention in this section how your project looks and works
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
+<!-- BUGS
+  I encountered several bugs while creating this project.
+
+  There were issues with the icons and social media links located in the footer. I struggled to correctly format links to the external sites while creating links in the icons.
+  This was corrected by adding "HTTPS://" to the front of the href aswell aswell as adding the target="_blank" attribute
+
+ -->
+
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
