@@ -1,23 +1,36 @@
+body{
+    color:black
+}
+
 header {
     display: flex;
+    position: fixed;
+    background-color: whitesmoke;
 }
 
-h1 {
-    display:flex;
-    justify-content: flex-end;
-}
 
 nav{
-    margin: 50px 150px;
-    text-align: right;
+    display: flex;
+   
+}
+
+nav a {
+    padding: 20px 150px;
     text-decoration: none;
-    color: black;
+    font-size: larger;
+}
+
+.active{
+    text-decoration:solid underline;
 }
 
 #hero-image {
-    background: cover;
-    width: 95%;
-    height: 50%;
     background-position: center;
+    width: 90%;
 
+}
+
+footer i {
+    font-size: 30px;
+    padding:20px 150px;
 }
