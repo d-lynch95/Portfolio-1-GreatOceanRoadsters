@@ -88,6 +88,8 @@ You should also mention in this section any interesting bugs or problems you dis
   This was corrected by adding "HTTPS://" to the front of the href aswell aswell as adding the target="_blank" attribute.
   I was also having issues with the icons duplicating themselves with one icon having an active link and the second icon not having a link. This was due to an issue with missing closing tags on our <i> element and was quickly corrected after some testing.
 
+  There was an issue when creating the hero image for the landing page. When adding the hero image the nav bar would disappear. This issue was temporarily fixed by removing the 'position:fixed;' attribute. We still wanted the Nav bar to be fixed so we corrected this by .....
+
  -->
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.

@@ -1,19 +1,16 @@
 body{
-    color:black
+    /* color:black */
 }
 
 header {
     display: flex;
     align-items: flex-start;
-    position: fixed;
     background-color: whitesmoke;
 }
 
 /* Navigation bar */
 nav{
     display: flex;
-
-   
 }
 
 nav a {
@@ -29,6 +26,7 @@ nav a {
 /* Index page hero image */
 .hero-image {
     display: flex;
+    align-items: flex-end;
     height: 90vh;
     width: 100vw;
     position:relative;
@@ -53,10 +51,11 @@ nav a {
 
 }
 
-#display-box {
-    background-color:red;
-    width: 20%;
-    height: 30%
+/* Index page attractions section */
+
+.attractions-pics {
+    height: 150px;
+    width: 150px;
 }
 
 
