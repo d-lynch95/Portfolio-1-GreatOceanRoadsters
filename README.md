@@ -5,7 +5,12 @@ In this section, you will include one or two paragraphs providing an overview of
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+<!-- 
+#Great Ocean Roadsters
 
+Great Ocean Roadsters is a website designed for travelers by travelers. The site aims to provide useful information for anyone traveling on the Great Ocean Road in Victoria, Australia.  Whether you're backpacking in Australia, on a family holiday or an Aussie getting out to see your own country we provide all the information you need to make the most of your trip. This website will provide a sample three day intinerary with the option to contact us to haver a personalised itinerary made or to help organise a guided tour or car rental. 
+
+-->
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -137,6 +142,8 @@ https://www.parks.vic.gov.au/
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+- The hero image and images for the different attractions were taken from [Pexels](https://www.pexels.com)
+
 
 -->
 ### Media
@@ -148,6 +155,17 @@ The hero image and the images for the itinerary page were taken from pexels.com
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
+
+<!-- ### Coding help
+
+- The outline template for the HTML body was provided by the [Code Institiute](https://www.codeinstitute.com)
+
+- Formatting for the hero image was sourced from https://dzuz14.medium.com/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c
+
+
+
+
+ -->
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 

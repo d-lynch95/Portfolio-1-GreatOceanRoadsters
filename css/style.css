@@ -4,13 +4,15 @@ body{
 
 header {
     display: flex;
+    align-items: flex-start;
     position: fixed;
     background-color: whitesmoke;
 }
 
-
+/* Navigation bar */
 nav{
     display: flex;
+
    
 }
 
@@ -24,12 +26,42 @@ nav a {
     text-decoration:solid underline;
 }
 
-#hero-image {
-    background-position: center;
-    width: 90%;
+/* Index page hero image */
+.hero-image {
+    display: flex;
+    height: 90vh;
+    width: 100vw;
+    position:relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('/images/pexels-twelveAp.jpg');
+}
+
+.overlay {
+    position:absolute;
+    height:100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0); 
+    color: white;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 
 }
 
+#display-box {
+    background-color:red;
+    width: 20%;
+    height: 30%
+}
+
+
+
+/* Footer */
 footer i {
     font-size: 30px;
     padding:20px 150px;
