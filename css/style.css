@@ -2,10 +2,16 @@ body{
     /* color:black */
 }
 
+/* Header */
+
 header {
     display: flex;
-    align-items: flex-start;
+    /* align-items: flex-start; */
     background-color: whitesmoke;
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
 }
 
 /* Navigation bar */
@@ -17,6 +23,7 @@ nav a {
     padding: 20px 150px;
     text-decoration: none;
     font-size: larger;
+    justify-content: center;
 }
 
 .active{
@@ -24,6 +31,7 @@ nav a {
 }
 
 /* Index page hero image */
+
 .hero-image {
     display: flex;
     align-items: flex-end;
@@ -60,8 +68,27 @@ nav a {
 
 /* EXPERIMENT WITH INLINE STYLES AS OPPOSED TO GRID SECTIONS?????? */
 
+
+/* Delete all of this text from the HTML and try to create one grid for the koala and apostles
+    create another box for the falls and surfing. Start slow and get it done piece by piece */
+
 /* 
 #attractions-grid {
+    display: flex;
+    direction: column-reverse;
+}
+
+#koalaflex {
+    justify-content: flex-start;
+    align-content: space-around;
+}
+
+#twelveflex {
+    justify-content: flex-end;
+    align-content: space-around;
+} */
+ 
+/* #attractions-grid {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%; 
     grid-template-rows: 50% 50%; 
@@ -101,7 +128,7 @@ nav a {
 
 .surf-photo {
     grid-area: SurfPic;
-} */
+}  */
 
 /* Footer */
 footer i {
