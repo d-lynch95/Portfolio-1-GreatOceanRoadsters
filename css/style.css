@@ -58,7 +58,55 @@ nav a {
     width: 150px;
 }
 
+#attractions-grid {
+    display: grid;
+    /* grid-template-columns: 20% 20% 20% 20%; */
+    /* grid-template-rows: 30% 30%; */
+    /* grid-template-areas: "KoalaText KoalaPic"
+                         "TwelveText TwelvePic"
+                         "FallsText FallsPic"
+                         "SurfText SurfPic" ; */
+}
 
+
+/*. DO I USE INLINE BLOCK STYLE OR GRID FORMAT??? */
+
+
+.koalatest{
+    display:inline-block;
+}
+
+.koala-grid {
+    grid-area: KoalaText;
+}
+
+.koala-photo {
+    grid-area: KoalaPic;
+}
+
+.twelve-grid {
+    grid-area: TwelveText;
+}
+
+.twelve-photo {
+    grid-area: TwelvePic;
+}
+
+.falls-grid{
+    grid-area: FallsText;
+}
+
+.falls-photo {
+    grid-area: FallsPic;
+}
+
+.surf-grid {
+    grid-area: SurfText;
+}
+
+.surf-photo {
+    grid-area: SurfPic;
+}
 
 /* Footer */
 footer i {
