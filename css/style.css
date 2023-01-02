@@ -61,74 +61,38 @@ nav a {
 
 /* Index page attractions section */
 
+#apostles-photo {
+    height: 33vh;
+    width: 242px;
+    background-position: center;
+}
+
 .attractions-pics {
-    height: 25vh;
+    height: 33vh;
     width: 25vw;
 }
 
-/* EXPERIMENT WITH INLINE STYLES AS OPPOSED TO GRID SECTIONS?????? */
+#attractions-row-one {
+    display:flex;
+    width: 100vw;
 
+}
 
-/* Delete all of this text from the HTML and try to create one grid for the koala and apostles
-    create another box for the falls and surfing. Start slow and get it done piece by piece */
-
-/* 
-#attractions-grid {
+.image-text-wrap {
     display: flex;
-    direction: column-reverse;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 50vw;
 }
 
-#koalaflex {
-    justify-content: flex-start;
-    align-content: space-around;
+.image-flex {
+    width: 50vw;
+    display: flex;
+    align-content: flex-start;
+    padding: 5px;
 }
 
-#twelveflex {
-    justify-content: flex-end;
-    align-content: space-around;
-} */
- 
-/* #attractions-grid {
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%; 
-    grid-template-rows: 50% 50%; 
-    grid-template-areas: "KoalaText KoalaPic"
-                         "TwelveText TwelvePic"
-                         "FallsText FallsPic"
-                         "SurfText SurfPic";
-}
 
-.koala-grid {
-    grid-area: KoalaText;
-}
-
-.koala-photo {
-    grid-area: KoalaPic;
-}
-
-.twelve-grid {
-    grid-area: TwelveText;
-}
-
-.twelve-photo {
-    grid-area: TwelvePic;
-}
-
-.falls-grid{
-    grid-area: FallsText;
-}
-
-.falls-photo {
-    grid-area: FallsPic;
-}
-
-.surf-grid {
-    grid-area: SurfText;
-}
-
-.surf-photo {
-    grid-area: SurfPic;
-}  */
 
 /* Footer */
 footer i {
