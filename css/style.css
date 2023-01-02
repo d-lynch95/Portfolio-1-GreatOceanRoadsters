@@ -92,6 +92,26 @@ nav a {
     padding: 5px;
 }
 
+/* FAQ section on index page */
+
+
+/* Contact us form hero image */
+
+.hero-image2 {
+    display: flex;
+    align-items: flex-end;
+    height: 90vh;
+    width: 100vw;
+    position:relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('/images/pexels-road-form.jpg');
+}
+
+#contactform {
+    background-color: rgba(0, 0, 0, .2);
+    color: white;
+}
 
 
 /* Footer */
