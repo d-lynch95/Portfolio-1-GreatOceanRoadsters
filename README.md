@@ -92,6 +92,8 @@ You should also mention in this section any interesting bugs or problems you dis
 
   The attractions section on the index page caused a lot of issues as this was the first time working with flexbox. The [Academind](https://www.youtube.com/watch?v=RSIclWvNTdQ) youtube tutorial on CSS V Flexbox was very helpful to resolve these issues.
 
+  When uploading the photos for the attractions page I spent a lot of time struggling with the format of one image. I could not figure out why the css was not working on this one image but had formatted all of the other images correctly. In the end I gave up and opted to change the image. When I changed the image to one of a similar theme the image responded to the css immediately. In hindsight I think the issue may be that the original image was in portrait mode and all of the other images were in landscape...
+
  -->
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
@@ -178,7 +180,7 @@ The map for the contact us was created using the map creator function on www.map
 
 The font was inspired by the logo of https://visitgreatoceanroad.org.au/ . We then located a similar font on google fonts, paired it with another font using Fontjoy and imported them from there.
 
-
+Styling of the attractions images was sourced from https://www.w3schools.com/css/css3_images.asp.
 
 
  -->

@@ -72,11 +72,26 @@ nav a {
 
 /* Index page attractions section */
 
+#attractions-title {
+    text-align: center;
+    font-size:10vh;
+    margin-top: 5px;
+}
+
 
 .attractions-pics {
     height: 33vh;
     width: 25vw;
+    border-radius: 40%;
 }
+
+.zoom {
+    transition: transform .2s; /* Animation */
+  }
+  
+  .zoom:hover {
+    transform: scale(1.05); 
+  }
 
 #attractions-row-one {
     display:flex;
