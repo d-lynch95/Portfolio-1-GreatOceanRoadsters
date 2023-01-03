@@ -182,6 +182,8 @@ The font was inspired by the logo of https://visitgreatoceanroad.org.au/ . We th
 
 Styling of the attractions images was sourced from https://www.w3schools.com/css/css3_images.asp.
 
+The code for the hamburger menu was taken from https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+
 
  -->
 
