@@ -1,6 +1,17 @@
-body{
-    /* color:black */
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Satisfy&display=swap');
+/* Font Styles */
+
+nav, h1, h2, h3{
+    font-family: 'Satisfy', cursive;
+
 }
+
+body{
+    font-family: 'Lora', serif;
+
+}
+
+
 
 /* Header */
 
@@ -61,11 +72,6 @@ nav a {
 
 /* Index page attractions section */
 
-#apostles-photo {
-    height: 33vh;
-    width: 242px;
-    background-position: center;
-}
 
 .attractions-pics {
     height: 33vh;

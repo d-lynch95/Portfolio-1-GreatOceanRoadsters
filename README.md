@@ -90,7 +90,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
   There was an issue when creating the hero image for the landing page. When adding the hero image the nav bar would disappear. This issue was temporarily fixed by removing the 'position:fixed;' attribute. We still wanted the Nav bar to be fixed so we corrected this by setting the z-index to 1.
 
-  The attractions section on the index page caused a lot of issues as this was the first time working with flexbox. The [][Academind](https://www.youtube.com/watch?v=RSIclWvNTdQ) youtube tutorial on CSS V Flexbox was very helpful to resolve these issues.
+  The attractions section on the index page caused a lot of issues as this was the first time working with flexbox. The [Academind](https://www.youtube.com/watch?v=RSIclWvNTdQ) youtube tutorial on CSS V Flexbox was very helpful to resolve these issues.
 
  -->
 
@@ -148,7 +148,9 @@ https://www.parks.vic.gov.au/
 
 - The hero image and images for the different attractions were taken from [Pexels](https://www.pexels.com)
 
-- The text for the FAQ section on the index page was taken from Wikipedia
+- The text for the FAQ section on the index page was taken from Wikipedia.
+
+
 
 
 -->
@@ -173,6 +175,8 @@ Attaching the email link on contact us page was sourced from https://www.indeed.
 The link to calling a phone number on the contact us page was sourced from https://www.gaintap.com/archives/clickable-website-phone-number-and-call-tracking-guide/.
 
 The map for the contact us was created using the map creator function on www.maps.ie and they also provided the hmtl code
+
+The font was inspired by the logo of https://visitgreatoceanroad.org.au/ . We then located a similar font on google fonts, paired it with another font using Fontjoy and imported them from there.
 
 
 
