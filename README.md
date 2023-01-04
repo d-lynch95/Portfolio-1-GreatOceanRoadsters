@@ -161,7 +161,9 @@ https://www.parks.vic.gov.au/
 ### Media
 
 <!--
-The hero image and the images for the itinerary page were taken from pexels.com
+The hero image and the images for the itinerary page were taken from pexels.comhe 
+
+The favicon was sourced from [Favicon.io] (https://favicon.io/favicon-generator/)
 -->
 
 - The photos used on the home and sign up page are from This Open Source site
@@ -190,7 +192,7 @@ The bug related to the hamburger menu was solved using help from [this blog] (ht
 
 Changing the icons for the FAQ section was done with help from [Stack overflow] (https://stackoverflow.com/questions/10813581/can-i-replace-the-expand-icon-of-the-details-element)
 
-
+Adding the Favicon to the website was done using help from [StackOverflow](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website)
 
  -->
 
