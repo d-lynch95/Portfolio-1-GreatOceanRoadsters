@@ -278,10 +278,57 @@ details > summary {
 }
 
 #contactform {
-    background-color: rgba(0, 0, 0, .2);
-    color: white;
+        margin: 10% 10% 10% 10%;
+        color: #fff;
+        background-color: rgba(60,60,60,0.6);
+        max-width: 400px;
+        position: absolute;
+        background-position: 70%;
+        padding: 30px;
 }
 
+#contactform input{
+    padding-bottom: 15px;
+}
+
+#submit-button {
+    padding:10px 5px 0 5px;
+    /* font-family: 'Satisfy', cursive; */
+    color: blue;
+    background-color: white;
+}
+
+/* Contact us section */
+
+#contact{
+    display: flex;
+    flex-wrap: wrap;
+    align-content:space-between;
+    
+    
+}
+
+.contact-title {
+    text-decoration: underline;
+}
+
+.contact-top {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+
+#contact-details {
+    display: flex;
+    flex-direction: column;
+}
+
+#location {
+    display:flex;
+    padding-left: 150px;
+}
 
 /* Footer */
 footer i {
