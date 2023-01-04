@@ -255,7 +255,7 @@ details {
 
 details > summary {
     font-family: 'Satisfy', cursive;
-    list-style-type: circle;
+    list-style-type: none;
 }
 
 .faq-text {
