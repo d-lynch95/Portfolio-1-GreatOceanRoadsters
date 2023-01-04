@@ -295,7 +295,13 @@ details > summary {
 
 }
 
+/* Itinerary 3 day plan */
 
+.itinerary-pics {
+    height: 33vh;
+    width: 25vw;
+    /* border-radius: 40%; */
+}
 
 
 
