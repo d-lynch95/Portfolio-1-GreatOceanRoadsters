@@ -373,18 +373,41 @@ details > summary {
 
 /* Footer */
 
+.footer-contact:hover{
+    text-decoration: underline;
+}
+
 .footer-contact {
     font-family: 'Satisfy', cursive;
     text-decoration: none;
     color:black;
+    padding-top: 10px;
 }
 
-.footer-contact:hover{
+#footer-flex {
+    display: flex;
+    align-content:space-around;
+    justify-content: space-between;
+    padding:80px 80px 0 80px;
+}
+
+.address-format {
+    font-family:'Lora', serif;
+    font-weight:bold;
+}
+
+#footer-right{
+    display:flex;
+    flex-direction: row; 
+}
+
+#footer-right a {
+    padding-left: 20px;
     font-size: larger;
 }
 
-
 footer i {
-    /* font-size: 30px;
-    padding:20px 150px; */
+    font-size: 30px;
+    padding:30px;
+    color: black;
 }
