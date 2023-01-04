@@ -345,12 +345,13 @@ details > summary {
     display: flex;
     flex-wrap: wrap;
     align-content:space-between;
-    
-    
 }
+
+
 
 .contact-title {
     text-decoration: underline;
+    font-family: 'Satisfy', cursi;
 }
 
 .contact-top {
@@ -364,11 +365,19 @@ details > summary {
 #contact-details {
     display: flex;
     flex-direction: column;
+    width: 30vw;
+    padding-left: 5vw;
+}
+
+#address-contact {
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
 }
 
 #location {
     display:flex;
-    padding-left: 150px;
+    padding-left: 20px;
 }
 
 /* Footer */
@@ -394,6 +403,7 @@ details > summary {
 .address-format {
     font-family:'Lora', serif;
     font-weight:bold;
+    font-size: large;
 }
 
 #footer-right{
