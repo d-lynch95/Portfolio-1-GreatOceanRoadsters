@@ -163,9 +163,11 @@ https://www.parks.vic.gov.au/
 ### Media
 
 <!--
-The hero image and the images for the itinerary page were taken from pexels.comhe 
+The hero image and the images for the itinerary page were taken from [Pexels](https://pexels.com)
 
 The favicon was sourced from [Favicon.io] (https://favicon.io/favicon-generator/)
+
+The youtube iframe footage was taken from [Oleg Smirnov](https://www.youtube.com/watch?v=9OcBGr5-yRE)
 -->
 
 - The photos used on the home and sign up page are from This Open Source site
