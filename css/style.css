@@ -8,6 +8,7 @@ nav, h1, h2, h3{
 
 body{
     font-family: 'Lora', serif;
+    font-size: medium ;
 
 }
 
@@ -228,7 +229,41 @@ nav a {
 
 /* FAQ section on index page */
 
+#FAQ-section {
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: center;
+    flex-direction: column ;
+    flex-wrap: wrap; */
+} 
 
+#FAQ-section h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 10vh;
+    padding-top: 0;
+
+}
+
+details {
+    font-family: 'Lora', serif;
+     font-size: x-large;
+     padding-top: 20px;
+    /*display: flex;*/
+
+}
+
+details > summary {
+    font-family: 'Satisfy', cursive;
+    list-style-type: circle;
+}
+
+.faq-text {
+    font-size:medium;
+    font-family: 'Lora', serif;
+    width: 60vw;
+    margin-left: 20%;
+}
 /* Contact us form hero image */
 
 .hero-image2 {

@@ -174,17 +174,22 @@ The hero image and the images for the itinerary page were taken from pexels.com
 
 - Formatting for the hero image was sourced from https://dzuz14.medium.com/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c
 
-Attaching the email link on contact us page was sourced from https://www.indeed.com/career-advice/career-development/how-to-make-email-link-in-html. 
+Attaching the email link on contact us page was sourced from [Indeed](https://www.indeed.com/career-advice/career-development/how-to-make-email-link-in-html)
 
 The link to calling a phone number on the contact us page was sourced from https://www.gaintap.com/archives/clickable-website-phone-number-and-call-tracking-guide/.
 
-The map for the contact us was created using the map creator function on www.maps.ie and they also provided the hmtl code
+The map for the contact us was created using the map creator function on [Maps.ie] (https://www.maps.ie and they also provided the hmtl code)
 
 The font was inspired by the logo of https://visitgreatoceanroad.org.au/ . We then located a similar font on google fonts, paired it with another font using Fontjoy and imported them from there.
 
-Styling of the attractions images was sourced from https://www.w3schools.com/css/css3_images.asp.
+Styling of the attractions images was sourced from [w3schools] (https://www.w3schools.com/css/css3_images.asp)
 
-The code for the hamburger menu was taken from https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+The code for the hamburger menu was taken from [this webpage] (https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci)
+
+The bug related to the hamburger menu was solved using help from [this blog] (https://codingbeautydev.com/blog/javascript-cannot-read-property-addeventlistener-of-null/#:~:text=November%2014%2C%202022-,The%20%E2%80%9Ccannot%20read%20property%20'addEventListener'%20of%20null%E2%80%9D%20error,element%20absent%20from%20the%20DOM)
+
+Changing the icons for the FAQ section was done with help from [Stack overflow] (https://stackoverflow.com/questions/10813581/can-i-replace-the-expand-icon-of-the-details-element)
+
 
 
  -->
