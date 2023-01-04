@@ -154,6 +154,8 @@ https://www.parks.vic.gov.au/
 
 - The text for the FAQ section on the index page was taken from Wikipedia.
 
+- The ideas for the footer came from [Colibri](https://colibriwp.com/blog/website-footers/)
+
 
 
 

@@ -372,7 +372,19 @@ details > summary {
 }
 
 /* Footer */
+
+.footer-contact {
+    font-family: 'Satisfy', cursive;
+    text-decoration: none;
+    color:black;
+}
+
+.footer-contact:hover{
+    font-size: larger;
+}
+
+
 footer i {
-    font-size: 30px;
-    padding:20px 150px;
+    /* font-size: 30px;
+    padding:20px 150px; */
 }
