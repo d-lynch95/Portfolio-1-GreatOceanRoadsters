@@ -264,6 +264,41 @@ details > summary {
     width: 60vw;
     margin-left: 20%;
 }
+
+/* Hero-Image itinerary page */
+
+.hero-image-itinerary {
+    display: flex;
+    align-items: flex-end;
+    height: 90vh;
+    width: 100vw;
+    position:relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('/images/pexels-cars-road.jpg')
+}
+
+.overlay {
+    position:absolute;
+    height:100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0); 
+    color: white;
+    text-shadow: 2px 2px 3px rgba(100,100,100,100);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: larger;
+
+}
+
+
+
+
+
 /* Contact us form hero image */
 
 .hero-image2 {
