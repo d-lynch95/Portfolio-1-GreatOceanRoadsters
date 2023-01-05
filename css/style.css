@@ -84,9 +84,6 @@ nav a {
     color:black;
 }
 
-.nav-link:hover{
-   -ms-zoom-animation:;  /* how do I zoom in on this when hovering */
-}
 
 .nav-logo {
     font-size: 2.1rem;
@@ -207,7 +204,7 @@ nav a {
         width:auto;
     }
 
-    .image-flex{
+    .image-flex {
         width: 100vw;
     }
 
@@ -257,8 +254,8 @@ nav a {
 
 #FAQ-section {
     text-align: center;
-    /* display: flex; */
-    /* justify-content: center;
+     display: flex; 
+    justify-content: center;
     flex-direction: column ;
     flex-wrap: wrap; */
 } 
@@ -266,16 +263,15 @@ nav a {
 #FAQ-section h2 {
     display: flex;
     justify-content: center;
-    font-size: 10vh;
+    font-size: 8vh;
     padding-top: 0;
-
 }
 
 details {
     font-family: 'Lora', serif;
      font-size: x-large;
      padding-top: 20px;
-    /*display: flex;*/
+
 
 }
 
@@ -290,6 +286,7 @@ details > summary {
     width: 60vw;
     margin-left: 20%;
 }
+
 
 /* Hero-Image itinerary page */
 
@@ -353,7 +350,23 @@ details > summary {
     color:#101010;
 }
 
+/* Gallery Page */
 
+.gallery-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 15vh;
+    row-gap: 30px;
+    
+
+}
+
+
+.gallery-grid-item {
+    height: 30vw;
+    width: 30vw;
+
+}
 
 /* Contact us form hero image */
 
