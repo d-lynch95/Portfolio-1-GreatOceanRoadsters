@@ -379,12 +379,20 @@ details > summary {
     font-family: 'Satisfy', cursi;
 }
 
-.contact-top {
-    font-weight: bold;
-    font-size: 20px;
-    
+.contact-link {
+    font-size: 15px;
+    text-decoration: none;
+    color:black;
 }
 
+.contact-top {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+}
 
 
 #contact-details {
