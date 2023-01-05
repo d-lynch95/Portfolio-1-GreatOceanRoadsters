@@ -198,6 +198,8 @@ Changing the icons for the FAQ section was done with help from [Stack overflow] 
 
 Adding the Favicon to the website was done using help from [StackOverflow](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website)
 
+
+The accesability advice for the hamburger menu came from [UXdesign] (https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cfd7)
  -->
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 

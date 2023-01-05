@@ -218,6 +218,7 @@ nav a {
     flex-direction: column;
     flex-wrap: nowrap;
     width: 50vw;
+    justify-content: center;
 }
 
 .image-flex {
@@ -301,6 +302,30 @@ details > summary {
     height: 33vh;
     width: 25vw;
     /* border-radius: 40%; */
+}
+
+/* Itinerary page grid layout */
+
+.grid-container {
+    display:grid;
+    grid-template-columns:auto auto;
+    
+}
+
+.grid-item {
+    padding: 2vw 5vw 0 5vw;
+
+}
+
+.grid-photos {
+    width: 40vw;
+    height:auto;
+    border-radius: 50%;
+}
+
+#itinerary-link {
+    text-decoration: underline;
+    color:#101010;
 }
 
 
