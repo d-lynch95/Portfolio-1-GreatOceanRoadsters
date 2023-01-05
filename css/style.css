@@ -263,8 +263,9 @@ nav a {
 #FAQ-section h2 {
     display: flex;
     justify-content: center;
-    font-size: 8vh;
+    font-size: 6vh;
     padding-top: 0;
+    
 }
 
 details {
@@ -453,6 +454,32 @@ details > summary {
 
 /* Footer */
 
+@media only screen and (max-width: 768px) {
+    footer i {
+        font-size: 2vw;
+        padding:2vw;
+        color: black;
+        display:flex;
+    }
+
+    footer{
+        display:flex;
+        /* flex-direction: column;  */
+        font-size: 1vh;
+        width:100vw;
+        margin-top: 0;
+    }
+    
+    #footer-flex {
+        padding: : 5px 5px 0 5px;
+    }
+
+    .address-format{
+        font-size: 1vh;
+    }
+
+}
+
 .footer-contact:hover{
     text-decoration: underline;
 }
@@ -474,7 +501,6 @@ details > summary {
 .address-format {
     font-family:'Lora', serif;
     font-weight:bold;
-    font-size: large;
 }
 
 #footer-right{
@@ -488,7 +514,9 @@ details > summary {
 }
 
 footer i {
-    font-size: 30px;
-    padding:30px;
+    font-size: 3vw;
+    padding:2vw;
     color: black;
+    display:flex;
 }
+
