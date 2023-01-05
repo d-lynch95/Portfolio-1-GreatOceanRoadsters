@@ -228,6 +228,31 @@ nav a {
     padding: 5px;
 }
 
+#index-buttons {
+    display:flex;
+    justify-content: center;
+    align-content: space-around;
+    margin: 20px 20px; 
+}
+
+#button-right{
+    margin-left: 50px;
+}
+
+.index-cta {
+    font-size:40px;
+    font-family: 'Satisfy', cursive;
+    text-transform: capitalize;
+    color:#101010;
+    text-decoration: none;
+}
+
+.index-cta:hover{
+    text-decoration: underline;
+    font-size: 45px;
+    }
+}
+
 /* FAQ section on index page */
 
 #FAQ-section {
