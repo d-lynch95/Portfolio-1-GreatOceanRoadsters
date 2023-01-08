@@ -108,7 +108,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
   While creating the hamburger menu I struggled a lot with a certain bug. I was able to format the menu but could not manage to get the menu to open. I struggled with this for a long time until an online blog I was reading suggested moving the script tag to after where the element is declared. I moved the script tag to the bottom of the html page and the hamburger menu began to work without any issues.
 
- 
+  I tried to create a pair of buttons on the index page with class to action of Find Out More and Contact Us. I nested an anchor tag within the button but this did not pass html validation. I searched on [stack overflow](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) and found a solution. In the end I opted to keep the a tag and style it with CSS to resemble a button.
+  
+  
 
 ### Validator Testing 
 
@@ -178,26 +180,29 @@ The photos for the gallery were all taken from [Unsplash](https://unsplash.com/s
 
 - Formatting for the hero image was sourced from https://dzuz14.medium.com/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c
 
-Attaching the email link on contact us page was sourced from [Indeed](https://www.indeed.com/career-advice/career-development/how-to-make-email-link-in-html)
+- Attaching the email link on contact us page was sourced from [Indeed](https://www.indeed.com/career-advice/career-development/how-to-make-email-link-in-html)
 
-The link to calling a phone number on the contact us page was sourced from https://www.gaintap.com/archives/clickable-website-phone-number-and-call-tracking-guide/.
+- The link to calling a phone number on the contact us page was sourced from https://www.gaintap.com/archives/clickable-website-phone-number-and-call-tracking-guide/.
 
-The map for the contact us was created using the map creator function on [Maps.ie] (https://www.maps.ie and they also provided the hmtl code)
+- The map for the contact us was created using the map creator function on [Maps.ie] (https://www.maps.ie and they also provided the hmtl code)
 
-The font was inspired by the logo of https://visitgreatoceanroad.org.au/ . We then located a similar font on google fonts, paired it with another font using Fontjoy and imported them from there.
+- The font was inspired by the logo of https://visitgreatoceanroad.org.au/ . We then located a similar font on google fonts, paired it with another font using Fontjoy and imported them from there.
 
-Styling of the attractions images was sourced from [w3schools] (https://www.w3schools.com/css/css3_images.asp)
+- Styling of the attractions images was sourced from [w3schools] (https://www.w3schools.com/css/css3_images.asp)
 
-The code for the hamburger menu was taken from [this webpage] (https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci)
+- The code for the hamburger menu was taken from [this webpage] (https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci)
 
-The bug related to the hamburger menu was solved using help from [this blog] (https://codingbeautydev.com/blog/javascript-cannot-read-property-addeventlistener-of-null/#:~:text=November%2014%2C%202022-,The%20%E2%80%9Ccannot%20read%20property%20'addEventListener'%20of%20null%E2%80%9D%20error,element%20absent%20from%20the%20DOM)
+- The bug related to the hamburger menu was solved using help from [this blog] (https://codingbeautydev.com/blog/javascript-cannot-read-property-addeventlistener-of-null/#:~:text=November%2014%2C%202022-,The%20%E2%80%9Ccannot%20read%20property%20'addEventListener'%20of%20null%E2%80%9D%20error,element%20absent%20from%20the%20DOM)
 
-Changing the icons for the FAQ section was done with help from [Stack overflow] (https://stackoverflow.com/questions/10813581/can-i-replace-the-expand-icon-of-the-details-element)
+- Changing the icons for the FAQ section was done with help from [Stack overflow] (https://stackoverflow.com/questions/10813581/can-i-replace-the-expand-icon-of-the-details-element)
 
-Adding the Favicon to the website was done using help from [StackOverflow](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website)
+- Adding the Favicon to the website was done using help from [StackOverflow](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website)
 
+- The accesability advice for the hamburger menu came from [UXdesign] (https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cfd7)
 
-The accesability advice for the hamburger menu came from [UXdesign] (https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cfd7)
+- The styling for the CTA anchor tags on the index page was taken from [FreeCodeCamp](https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/)
+
+- The aria-label for the nav menu was formatted using information from [Acede-web](https://www.accede-web.com/en/guidelines/rich-interface-components/hamburger-menu/)
 
 <!--
 ## Other General Project Advice

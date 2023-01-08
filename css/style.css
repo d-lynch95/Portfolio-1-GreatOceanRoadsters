@@ -237,16 +237,18 @@ nav a {
 }
 
 .index-cta {
-    font-size:40px;
-    font-family: 'Satisfy', cursive;
-    text-transform: capitalize;
-    color:#101010;
-    text-decoration: none;
+    background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  margin-left: 20px;
 }
 
 .index-cta:hover{
     text-decoration: underline;
-    font-size: 45px;
+    font-size: 17px;
     
 }
 
