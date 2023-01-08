@@ -333,6 +333,15 @@ details > summary {
     /* border-radius: 40%; */
 }
 
+.itinerary-link {
+    text-decoration: none;
+    color:#101010;
+}
+
+.itinerary-link:hover {
+    text-decoration: underline dashed;
+}
+
 /* Itinerary page grid layout */
 
 .grid-container {
