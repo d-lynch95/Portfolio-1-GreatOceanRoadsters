@@ -136,7 +136,6 @@ This section should describe the process you went through to deploy the project 
 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
 
-
 ## Credits 
 
 ### Content 
