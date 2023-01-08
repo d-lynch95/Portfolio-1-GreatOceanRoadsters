@@ -527,11 +527,11 @@ details > summary {
         padding:  5px 5px 0 5px;
     }
 
-    .address-format{
-        font-size: 1vh;
-    }
 
 }
+
+
+
 
 .footer-contact:hover{
     text-decoration: underline;
@@ -550,6 +550,19 @@ details > summary {
     justify-content: space-between;
     padding:80px 80px 0 80px;
 }
+
+@media only screen and (max-width: 500px) {
+    #footer-flex{
+        display:flex;
+        align-content: center;
+        flex-direction: column;
+        font-size: medium;
+        
+
+    }
+
+}
+
 
 .address-format {
     font-family:'Lora', serif;
