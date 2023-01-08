@@ -247,7 +247,7 @@ nav a {
 .index-cta:hover{
     text-decoration: underline;
     font-size: 45px;
-    }
+    
 }
 
 /* FAQ section on index page */
@@ -257,7 +257,7 @@ nav a {
      display: flex; 
     justify-content: center;
     flex-direction: column ;
-    flex-wrap: wrap; */
+    flex-wrap: wrap;
 } 
 
 #FAQ-section h2 {
@@ -286,6 +286,12 @@ details > summary {
     font-family: 'Lora', serif;
     width: 60vw;
     margin-left: 20%;
+}
+
+.faq-link {
+    color:#101010;
+    text-decoration: underline;
+
 }
 
 
@@ -452,6 +458,38 @@ details > summary {
     padding-left: 20px;
 }
 
+
+/* Form submission page cover photo*/
+
+.hero-image-submission {
+    display: flex;
+    align-items: flex-end;
+    height: 90vh;
+    width: 100vw;
+    position:relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('/images/pexels-form-submission.jpg');
+}
+
+.overlay-submission {
+    position:absolute;
+    height:100%;
+    width: 100%;
+    top: 0;
+    left: 15vw;
+    background: rgba(0, 0, 0, 0); 
+    color: white;
+    text-shadow: 2px 2px 3px rgba(100,100,100,100);
+    display:flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    font-size: larger;
+}
+
+
+
 /* Footer */
 
 @media only screen and (max-width: 768px) {
@@ -471,7 +509,7 @@ details > summary {
     }
     
     #footer-flex {
-        padding: : 5px 5px 0 5px;
+        padding:  5px 5px 0 5px;
     }
 
     .address-format{
