@@ -414,10 +414,13 @@ details > summary {
 }
 
 #submit-button {
-    padding:10px 5px 0 5px;
-    /* font-family: 'Satisfy', cursive; */
-    color: blue;
-    background-color: white;
+    background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  margin-left: 20px;
 }
 
 /* Contact us section */
