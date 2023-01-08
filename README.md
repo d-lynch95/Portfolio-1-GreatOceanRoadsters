@@ -53,27 +53,32 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 
   - The footer is broken into four sections. It contains a copyright section and a link to the social medias (facebook, twitter, instagram, youtube). It also contains the address for the GreatOceanRoadsters office. The footer also contains three links that act as calls to action.
   - The three links in the footer are Contact us, Phone us and Email us. The Contact us link takes the user to the Contact Us page in a new tab. While here the user can fill out a form, access our email and phone number information and view our street address aswell as see the address on a googlemaps link. The phone us link will allow the user to phone GreatOceanRoadsters directly and the Email us link will open a new page to email Great Ocean Roadsters directly.
-  - The footer is valuable to the user as it encourages them to keep connected via social media and also to contact us without having to search for our contact information.<>
+  - The footer is valuable to the user as it encourages them to keep connected via social media and also to contact us without having to search for our contact information.
   - The footer is the same on all of the webpages to allow for standardisation and ease of use.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-<!-- - __Gallery__
+- __Itinerary Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This page will allow the user to view a sample three day itinerary. The page will provide links to the different activities but will not provide too much information. The page will contain links to websites for different activities and also includes a link to our contact page.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  The page also contains an iFrame with an embedded youtube video which displas aerial drone footage of the Great Ocean Road.
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- __Gallery__
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+  - The gallery will provide the user with supporting images to see what the attractions look like. 
+  - This section is valuable to the user as they will be able to easily visualise the different tourist attractions along the route and will get the user excited for their trip and make them more likely to contact us for more information.
+
+![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+
+- __The Contact Us Page__
+
+  - This page has a large hero image along with a sign up form. The sign up form asks for the users basic information and includes a checkbox to allow us to better answer the customers query.   This section also includes contact information such as an email with clickable email link and a phone number that when clicked will allow the user to call directly from their laptop or mobile. The address for the office is also included aswell as an embedded google maps link to allow for easy navigation to our office location in Melbourne.
+
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
 
 ### Features Left to Implement
 

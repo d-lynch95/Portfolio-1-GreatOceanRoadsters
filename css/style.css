@@ -189,7 +189,7 @@ nav a {
     transform: scale(1.05); 
   }
 
-#attractions-row-one {
+.attractions-row-one {
     display:flex;
     width: 100vw;
 
