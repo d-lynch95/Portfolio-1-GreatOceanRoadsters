@@ -435,7 +435,8 @@ details > summary {
 
 .contact-title {
     text-decoration: underline;
-    font-family: 'Satisfy', cursi;
+    font-family: 'Satisfy', cursive;
+    margin-right: 10px;
 }
 
 .contact-link {
