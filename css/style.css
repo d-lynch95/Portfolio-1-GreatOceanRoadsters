@@ -379,12 +379,20 @@ details > summary {
 
 }
 
+@media only screen and (max-width: 768px) {
+    .gallery-grid-item {
+        height: 30vw;
+        width: 30vw;
+    }
 
-.gallery-grid-item {
-    height: 30vw;
-    width: 30vw;
-
+    .gallery-grid-container {
+        display: grid;
+        grid-template-columns:auto auto;
+        padding-top: 15vh;
+        row-gap: 30px;
+    }
 }
+
 
 /* Contact us form hero image */
 
