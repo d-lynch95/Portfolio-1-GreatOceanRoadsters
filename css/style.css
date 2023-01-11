@@ -146,7 +146,7 @@ nav a {
     position:relative;
     background-size: cover;
     background-position: 50% 50%;
-    background-image: url('../../images/pexels-twelveap.jpg');
+    background-image: url('../images/pexels-twelveap.jpg');
 }
 
 .overlay {
@@ -375,21 +375,26 @@ details > summary {
     grid-template-columns: auto auto auto;
     padding-top: 15vh;
     row-gap: 30px;
-    
+}
 
+.gallery-grid-item {
+    height: 30vw;
+    width: 30vw;
 }
 
 @media only screen and (max-width: 768px) {
+
     .gallery-grid-item {
-        height: 30vw;
-        width: 30vw;
+        height: 40vw;
+        width: 50vw;
     }
 
     .gallery-grid-container {
         display: grid;
         grid-template-columns:auto auto;
         padding-top: 15vh;
-        row-gap: 30px;
+        row-gap: 3vw;
+        column-gap: 3vh;
     }
 }
 
