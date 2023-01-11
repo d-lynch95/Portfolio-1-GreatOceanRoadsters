@@ -109,6 +109,8 @@ You should also mention in this section any interesting bugs or problems you dis
   While creating the hamburger menu I struggled a lot with a certain bug. I was able to format the menu but could not manage to get the menu to open. I struggled with this for a long time until an online blog I was reading suggested moving the script tag to after where the element is declared. I moved the script tag to the bottom of the html page and the hamburger menu began to work without any issues.
 
   I tried to create a pair of buttons on the index page with class to action of Find Out More and Contact Us. I nested an anchor tag within the button but this did not pass html validation. I searched on [stack overflow](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) and found a solution. In the end I opted to keep the a tag and style it with CSS to resemble a button.
+
+  - Once the site was deployed I had issues with viewing the hero images on each page. This was due to the use of absolute file paths. Once we changed them to relative file paths the images loaded without issues.
   
   
 
@@ -134,7 +136,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatOceanRoadsters/
 
 ## Credits 
 
@@ -165,13 +167,13 @@ https://www.parks.vic.gov.au/
 
 ### Media
 
-The hero image and the images for the itinerary page were taken from [Pexels](https://pexels.com)
+- The hero image and the images for the itinerary page were taken from [Pexels](https://pexels.com)
 
-The favicon was sourced from [Favicon.io] (https://favicon.io/favicon-generator/)
+- The favicon was sourced from [Favicon.io] (https://favicon.io/favicon-generator/)
 
-The youtube iframe footage was taken from [Oleg Smirnov](https://www.youtube.com/watch?v=9OcBGr5-yRE)
+- The youtube iframe footage was taken from [Oleg Smirnov](https://www.youtube.com/watch?v=9OcBGr5-yRE)
 
-The photos for the gallery were all taken from [Unsplash](https://unsplash.com/s/photos/great-ocean-road)
+- The photos for the gallery were all taken from [Unsplash](https://unsplash.com/s/photos/great-ocean-road)
 
 ### Coding help
 
