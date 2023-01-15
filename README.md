@@ -144,13 +144,13 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 
 - The following websites were used to source information on the different attractions : 
 
-https://www.visitmelbourne.com/
-https://visitgreatoceanroad.org.au/
-https://visitapollobay.com/
-https://visit12apostles.com.au/
-https://www.greatoceanroadaustralia.org/
-https://greatoceanroadmelbournetours.com.au/
-https://www.parks.vic.gov.au/
+  - https://www.visitmelbourne.com/
+  -  https://visitgreatoceanroad.org.au/
+  -  https://visitapollobay.com/
+  -  https://visit12apostles.com.au/
+  -  https://www.greatoceanroadaustralia.org/
+  -  https://greatoceanroadmelbournetours.com.au/
+  -  https://www.parks.vic.gov.au/
 
 - The format and template for the README file was borrowed from the [Code institute](https://codeinstitute.net/ie/)
 
