@@ -19,21 +19,21 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, Itinerary and Contact us page. The nav bar on each pge is the exact same to allow for ease of navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](media/nav-bar.png)
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to know the exact purpose of the website.
   - This section teases the user with a picture of the Twelve apostles geographical feature and the caption "Your guide to one of Australias most scenic drives.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](media/hero-image.png)
 
-- __Attractions section Section__
+- __Attractions section__
 
   - The attractions section allows the user to see some of the highlights of the Great Ocean Road and some of the activities or sights they will encounter along the way.  
   - There are two calls to action under the attractions section. One is a 'Find out more' CTA which will link the user to the Itinerary page. The other is a "Contact us" CTA which will link the user to the Contact us page where the user can fill out their details and submit a form to acquire  further information. Both of these buttons will open the page in a new tab to allow the user to return easily to where they had been.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Attractions](media/attractions-section.png)
 
 - __Frequently Asked Questions section__
 
@@ -47,7 +47,7 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
   - The questions will expand with the answer when clicked. This is intuitive behaviour for an FAQ section.
      
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![FAQ](media/faq-section.png)
 
 - __The Footer__ 
 
@@ -56,7 +56,7 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
   - The footer is valuable to the user as it encourages them to keep connected via social media and also to contact us without having to search for our contact information.
   - The footer is the same on all of the webpages to allow for standardisation and ease of use.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](media/footer-section.png)
 
 - __Itinerary Page__
 
@@ -64,20 +64,20 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 
   The page also contains an iFrame with an embedded youtube video which displas aerial drone footage of the Great Ocean Road.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Itinerary](media/itinerary-page.png)
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the attractions look like. 
   - This section is valuable to the user as they will be able to easily visualise the different tourist attractions along the route and will get the user excited for their trip and make them more likely to contact us for more information.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](media/gallery-page.png)
 
 - __The Contact Us Page__
 
   - This page has a large hero image along with a sign up form. The sign up form asks for the users basic information and includes a checkbox to allow us to better answer the customers query.   This section also includes contact information such as an email with clickable email link and a phone number that when clicked will allow the user to call directly from their laptop or mobile. The address for the office is also included aswell as an embedded google maps link to allow for easy navigation to our office location in Melbourne.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact Us](media/contact-us-footer.png)
 
 
 ### Features Left to Implement
