@@ -374,11 +374,12 @@ details > summary {
 
 .gallery-grid-container {
     display: grid;
-    grid-template-columns: 30% auto auto;
     padding-top: 15vh;
-    row-gap: 20px;
-    grid-template-columns: 33% 33% 33%;
+    row-gap: 10px;
+    grid-template-columns: 30% 30% 30%;
+    column-gap: 25px;
     padding-top: 15vh;
+    padding-left: 30px;
 }
 
 .gallery-grid-item {
