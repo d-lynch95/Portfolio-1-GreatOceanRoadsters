@@ -2,7 +2,6 @@
 
 <!-- In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. -->
  
-# Great Ocean Roadsters
 
 Great Ocean Roadsters is a website designed for travelers by travelers. The site aims to provide useful information for anyone traveling on the Great Ocean Road in Victoria, Australia.  Whether you're backpacking in Australia, on a family holiday or an Aussie getting out to see your own country we provide all the information you need to make the most of your trip. This website will provide a sample three day intinerary with the option to contact us to have the perfect personalised itinerary designed just for you or to help organise a guided tour or car rental. 
 
