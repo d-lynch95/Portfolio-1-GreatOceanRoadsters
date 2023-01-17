@@ -111,6 +111,8 @@ You should also mention in this section any interesting bugs or problems you dis
  - I tried to create a pair of buttons on the index page with class to action of Find Out More and Contact Us. I nested an anchor tag within the button but this did not pass html validation. I searched on [stack overflow](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) and found a solution. In the end I opted to keep the a tag and style it with CSS to resemble a button.
 
   - Once the site was deployed I had issues with viewing the hero images on each page. This was due to the use of absolute file paths. Once we changed them to relative file paths the images loaded without issues.
+
+  - There was an issue with the confirmation.html page. This page was supposed to be the destination for form submission. After receiving help from Sean Young on slack I was told that we do not yet have the requisite knowledge to format the server to accept form submissions. I have added the submission page from the love running project provided by the Code Institute.
   
   
 
@@ -127,6 +129,8 @@ You should also mention in this section any interesting bugs or problems you dis
 -->
 
 - When the site is viewed on mobile or tablet sized screens (< 768px) the hamburger menu appears at the left side of the screen as an opaque rectangular box. When the hamburger menu is clicked this menu slides out from the left to fill the screen. As this functionality was borrowed from an online tutorial I have struggled to fix this bug as I do not have the required Javascript knowledge yet. 
+
+- The form submission page currently leads to a default page provided by the code institute. I would like in the future for the action attribute to lead to the already created confirmation.html page.
 
 
 
@@ -209,6 +213,8 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 - The styling for the CTA anchor tags on the index page was taken from [FreeCodeCamp](https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/)
 
 - The aria-label for the nav menu was formatted using information from [Acede-web](https://www.accede-web.com/en/guidelines/rich-interface-components/hamburger-menu/)
+
+ - I received help on the bug related to the form method attribute from 'Sean Young Alumni' on slack.
 
 <!--
 ## Other General Project Advice
