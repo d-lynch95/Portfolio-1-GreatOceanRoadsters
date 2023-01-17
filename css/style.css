@@ -374,9 +374,11 @@ details > summary {
 
 .gallery-grid-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 30% auto auto;
     padding-top: 15vh;
-    row-gap: 30px;
+    row-gap: 20px;
+    grid-template-columns: 33% 33% 33%;
+    padding-top: 15vh;
 }
 
 .gallery-grid-item {
@@ -395,8 +397,8 @@ details > summary {
         display: grid;
         grid-template-columns:auto auto;
         padding-top: 15vh;
-        row-gap: 3vw;
-        column-gap: 3vh;
+        row-gap: 2vw;
+        column-gap: 2vh;
     }
 }
 
