@@ -375,16 +375,17 @@ details > summary {
 .gallery-grid-container {
     display: grid;
     padding-top: 15vh;
-    row-gap: 10px;
+    row-gap: 15px;
     grid-template-columns: 30% 30% 30%;
-    column-gap: 25px;
+    column-gap: 35px;
     padding-top: 15vh;
-    padding-left: 30px;
+    padding-left: 50px;
 }
 
 .gallery-grid-item {
     height: 30vw;
     width: 30vw;
+    border-radius: 3%;
 }
 
 @media only screen and (max-width: 768px) {
