@@ -408,31 +408,36 @@ details > summary {
     display: grid;
     padding-top: 15vh;
     row-gap: 15px;
-    grid-template-columns: 30% 30% 30%;
-    column-gap: 35px;
+    grid-template-columns: 32% 32% 32%;
+    column-gap: 15px;
     padding-top: 15vh;
-    padding-left: 50px;
+    padding-left: 10px;
 }
 
 .gallery-grid-item {
     height: 30vw;
-    width: 30vw;
+    width: 100%;
     border-radius: 3%;
 }
 
 @media only screen and (max-width: 768px) {
 
-    .gallery-grid-item {
+    /* .gallery-grid-item {
         height: 40vw;
         width: 50vw;
-    }
+    } */
 
     .gallery-grid-container {
         display: grid;
-        grid: template columns 100%;;
+        grid-template-columns: 50% auto;
         padding-top: 15vh;
-        row-gap: 2vw;
-        column-gap: 2vh;
+        row-gap: 1vh;
+        column-gap: 1vw;
+        padding-left: 10px;
+    }
+
+    .gallery-grid-item {
+        width:100%;
     }
 }
 
