@@ -190,22 +190,6 @@ nav a {
 
 }
 
-@media only screen and (max-width: 768px) {
-    #attractions-row-one{
-        display: flex;
-        flex-wrap: wrap;
-        align-content: center;
-        justify-content: center;
-        width:auto;
-    }
-
-    .image-flex {
-        width: 100vw;
-
-    }
-
-}
-
 .image-text-wrap {
     display: flex;
     flex-direction: column;
@@ -246,7 +230,32 @@ nav a {
 .index-cta:hover{
     text-decoration: underline;
     font-size: 17px;
-    
+}
+
+@media only screen and (max-width: 768px) {
+    .attractions-row-one{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        width:100%;
+        padding-left:30px;
+        padding-right: 30px;
+    }
+
+    .image-flex {
+        width: 100%;
+    }
+
+    .image-text-wrap{
+        width: 50%;
+    }
+
+    .attractions-pics{
+        width:55%;
+    }
+
 }
 
 /* FAQ section on index page */
