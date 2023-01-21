@@ -1,18 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Satisfy&display=swap');
-/* Font Styles */
 
+/* Font Styles */
 nav, h1, h2, h3{
     font-family: 'Satisfy', cursive;
-
 }
 
 body{
     font-family: 'Lora', serif;
     font-size: medium ;
-
 }
-
-
 
 /* Header */
 
@@ -83,7 +79,6 @@ nav a {
     font-weight: 400;
     color:black;
 }
-
 
 .nav-logo {
     font-size: 2.1rem;
@@ -269,15 +264,12 @@ nav a {
     justify-content: center;
     font-size: 6vh;
     padding-top: 0;
-    
 }
 
 details {
     font-family: 'Lora', serif;
      font-size: x-large;
      padding-top: 20px;
-
-
 }
 
 details > summary {
@@ -295,9 +287,7 @@ details > summary {
 .faq-link {
     color:#101010;
     text-decoration: underline;
-
 }
-
 
 /* Hero-Image itinerary page */
 
@@ -326,7 +316,6 @@ details > summary {
     justify-content: center;
     flex-direction: column;
     font-size: larger;
-
 }
 
 /* Itinerary 3 day plan */
@@ -348,9 +337,14 @@ details > summary {
 
 /* Itinerary page grid layout */
 
-.grid-container {
-    display:grid;
-    grid-template-columns:auto auto;
+#itinerary-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.itinerary-container {
+    display:flex;
+    flex-direction: row;
     
 }
 
@@ -368,6 +362,30 @@ details > summary {
 #itinerary-link {
     text-decoration: underline;
     color:#101010;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .itinerary-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #day-one{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #day-three {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .grid-photos {
+    width:100%;
+    height:auto;
+    border-radius: 90%;
+    }
 }
 
 /* Gallery Page */
@@ -397,7 +415,7 @@ details > summary {
 
     .gallery-grid-container {
         display: grid;
-        grid-template-columns:auto auto;
+        grid: template columns 100%;;
         padding-top: 15vh;
         row-gap: 2vw;
         column-gap: 2vh;
@@ -580,6 +598,7 @@ footer i {
         display: flex;
         flex-direction: row;
         justify-content: center;
+
         padding-top: 5vh;
     }
 
