@@ -422,11 +422,6 @@ details > summary {
 
 @media only screen and (max-width: 768px) {
 
-    /* .gallery-grid-item {
-        height: 40vw;
-        width: 50vw;
-    } */
-
     .gallery-grid-container {
         display: grid;
         grid-template-columns: 50% auto;
@@ -484,26 +479,28 @@ details > summary {
 #contact{
     display: flex;
     flex-wrap: wrap;
-    align-content:space-between;
+    justify-content: space-around;
+    width:100%;
+    font-size: large;
+    font-weight:bold;
 }
-
-
 
 .contact-title {
     text-decoration: underline;
     font-family: 'Satisfy', cursive;
+    font-size: 35px;
     margin-right: 10px;
 }
 
 .contact-link {
-    font-size: 15px;
+    font-size: 25px;
     text-decoration: none;
     color:black;
 }
 
 .contact-top {
     font-weight: bold;
-    font-size: larger;
+    font-size: 30px;
 }
 
 .contact-link:hover {
@@ -514,8 +511,9 @@ details > summary {
 #contact-details {
     display: flex;
     flex-direction: column;
-    width: 30vw;
-    padding-left: 5vw;
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #address-contact {
@@ -526,9 +524,17 @@ details > summary {
 
 #location {
     display:flex;
+    flex-direction: column;
     padding-left: 20px;
 }
 
+.address-format {
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+
+}
 
 /* Form submission page cover photo*/
 
@@ -559,8 +565,6 @@ details > summary {
     font-size: larger;
 }
 
-
-
 /* Footer */
 
 footer {
@@ -577,7 +581,7 @@ footer {
 
 footer i {
     color: black;
-    font-size: 10vh;
+    font-size: 6vh;
     padding: 4vw;
 }
 
@@ -586,21 +590,11 @@ footer i {
     padding-top: 20px;
 }
 
-/* @media only screen and (max-width: 540px) {
-    #footer-address {
-        display: none;
-    }
-
-    #footer-icons {
-        width:100%;
-    }
-} */
-
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 870px) {
     footer i {
         color: black;
-        font-size: 4vh;
-        margin-left: 4vw;
+        font-size: 3vh;
+        margin-left: 1vw;
         padding-top: 3vh;
         padding-bottom: 2vh;
     }
@@ -612,12 +606,11 @@ footer i {
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 630px) {
     footer {
         display: flex;
         flex-direction: row;
         justify-content: center;
-
         padding-top: 5vh;
     }
 
