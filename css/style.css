@@ -384,7 +384,21 @@ details > summary {
     .grid-photos {
     width:100%;
     height:auto;
-    border-radius: 90%;
+    border-radius: 10%;
+    }
+
+    .itinerary-text{
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .itinerary-link {
+        padding: 50px;
+    }
+
+    div li {
+        list-style: none;
+        padding-top: 35px;
     }
 }
 
