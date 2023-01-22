@@ -43,20 +43,28 @@ nav {
 
 }
 
+@media only screen and (min-width: 769px){
+    #nav-list{
+        width: 50vw;
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between
+    }
+
+}
+
 @media only screen and (max-width: 768px) {
 
     header {
         position:fixed;
     }
 
-    
-
     #nav-list {
         display:flex;
         flex-direction: column;
         margin-bottom: 20px;
         padding-left: 0;
-        
     }
 
     #nav-list li {
