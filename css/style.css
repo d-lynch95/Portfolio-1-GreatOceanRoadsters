@@ -79,7 +79,6 @@ nav ul li a {
         display:flex;
         flex-direction: column;
         margin-bottom: 20px;
-        padding-left: 8vw;
     }
 
     #nav-list li {
@@ -99,7 +98,7 @@ nav ul li a {
 
     #logo {
         font-size: 20px;
-        padding-right: 0;
+        padding: 30px 1px 10px 10px;
     }
 
 }
