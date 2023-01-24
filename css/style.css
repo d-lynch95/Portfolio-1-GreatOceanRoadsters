@@ -16,7 +16,7 @@ header {
     display: flex;
     /* align-items: flex-start; */
     background-color: whitesmoke;
-    height: 15vh;
+    height: auto;
     width: 100vw;
     position: fixed;
     z-index: 1;
@@ -63,6 +63,10 @@ nav ul li a {
         margin-left: 4vw;
     }
 
+    #logo {
+        padding-right: 0;
+    }
+
 }
 
 @media only screen and (max-width: 768px) {
@@ -85,12 +89,17 @@ nav ul li a {
     #nav-list li ::hover {
         text-decoration: underline;
     }
+
+    #logo {
+        padding-right: 0;
+    }
 }
 
 @media only screen and (max-width: 483px) {
 
     #logo {
         font-size: 20px;
+        padding-right: 0;
     }
 
 }
