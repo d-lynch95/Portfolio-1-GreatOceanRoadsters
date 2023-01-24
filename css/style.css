@@ -420,6 +420,7 @@ details > summary {
     background-size: cover;
     background-position: 50% 50%;
     background-image: url('../images/pexels-road-form.jpg');
+    padding-top:200px;
 }
 
 #contactform {
@@ -486,12 +487,6 @@ details > summary {
     width: fit-content;
     padding-left: 20px;
     padding-right: 20px;
-}
-
-#address-contact {
-    width: 15vw;
-    display: flex;
-    flex-direction: column;
 }
 
 #location {
