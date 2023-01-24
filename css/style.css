@@ -380,11 +380,9 @@ details > summary {
 
 .gallery-grid-container {
     display: grid;
-    padding-top: 15vh;
     row-gap: 15px;
     grid-template-columns: 32% 32% 32%;
     column-gap: 15px;
-    padding-top: 15vh;
     padding-left: 10px;
 }
 
@@ -399,7 +397,7 @@ details > summary {
     .gallery-grid-container {
         display: grid;
         grid-template-columns: 50% auto;
-        padding-top: 15vh;
+        padding-top: 27vh;
         row-gap: 1vh;
         column-gap: 1vw;
         padding-left: 10px;
