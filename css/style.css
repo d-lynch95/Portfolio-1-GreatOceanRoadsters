@@ -668,3 +668,12 @@ footer i {
 #404 {
     font-family: 'Unbounded';
 }
+
+#404-link {
+    text-decoration: none;
+    color: balck;
+}
+
+#404-link :hover {
+    text-decoration: underline;
+}
