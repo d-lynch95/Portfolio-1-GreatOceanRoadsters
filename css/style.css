@@ -159,6 +159,10 @@ nav ul li a {
   }
 }
 
+.attractions-subtitle{
+    font-family: Unbounded;
+}
+
 #attractions-title {
     text-align: center;
     font-size:9vh;
