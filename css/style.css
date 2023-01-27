@@ -315,6 +315,14 @@ details > summary {
 
 /* Itinerary page grid layout */
 
+@media only screen and (min-width: 769px) {
+    #itinerary-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
 #itinerary-flex {
     display: flex;
     flex-direction: column;
@@ -323,9 +331,7 @@ details > summary {
 .itinerary-container {
     display:flex;
     flex-direction: row;
-    
 }
-
 
 .grid-photos {
     width: 40vw;
