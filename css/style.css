@@ -132,23 +132,20 @@ nav ul li a {
     justify-content: center;
     flex-direction: column;
     font-size: larger;
+}
 
+@media only screen and (max-width: 768px) {
+
+    .hidden-text {
+        visibility: hidden;
+        display: flex;
+        align-content: center;
+    }
 }
 
 /* Index page attractions section */
 
-#attractions-title {
-    text-align: center;
-    font-size:10vh;
-    margin-top: 5px;
-}
-
-
-.attractions-pics {
-    height: 33vh;
-    width: 25vw;
-    border-radius: 40%;
-}
+@media only screen and (min-width: 769px) {
 
 .zoom {
     transition: transform .2s; /* Animation */
@@ -157,11 +154,23 @@ nav ul li a {
   .zoom:hover {
     transform: scale(1.05); 
   }
+}
+
+#attractions-title {
+    text-align: center;
+    font-size:10vh;
+    margin-top: 5px;
+}
+
+.attractions-pics {
+    height: 33vh;
+    width: 25vw;
+    border-radius: 40%;
+}
 
 .attractions-row-one {
     display:flex;
     width: 100vw;
-
 }
 
 .image-text-wrap {
