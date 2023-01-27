@@ -345,10 +345,11 @@ details > summary {
 .itinerary-list {
     text-align: center;
     padding-left: 0;
+    list-style-type: none;
 }
 
 .itinerary-pics {
-    height: 33vh;
+    height: auto;
     width: 25vw;
 }
 
