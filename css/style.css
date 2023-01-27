@@ -315,10 +315,19 @@ details > summary {
 
 /* Itinerary 3 day plan */
 
+.day-title {
+    text-align: center;
+    font-family: Unbounded;
+}
+
+.itinerary-list {
+    text-align: center;
+    padding-left: 0;
+}
+
 .itinerary-pics {
     height: 33vh;
     width: 25vw;
-    /* border-radius: 40%; */
 }
 
 .itinerary-link {
@@ -330,7 +339,7 @@ details > summary {
     text-decoration: underline dashed;
 }
 
-/* Itinerary page grid layout */
+/* Itinerary page layout */
 
 @media only screen and (min-width: 769px) {
     #itinerary-flex {
