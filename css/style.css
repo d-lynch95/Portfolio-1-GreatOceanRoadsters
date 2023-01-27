@@ -136,6 +136,10 @@ nav ul li a {
 
 @media only screen and (max-width: 768px) {
 
+    .hero-image {
+        padding-top: 150px;
+    }
+
     .hidden-text {
         visibility: hidden;
         display: flex;
