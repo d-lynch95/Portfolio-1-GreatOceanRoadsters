@@ -658,3 +658,13 @@ footer i {
         display: none;
     }
 }
+
+/*Error 404 pager */
+
+#404-page {
+    text-align: center;
+}
+
+#404 {
+    font-family: 'Unbounded';
+}
