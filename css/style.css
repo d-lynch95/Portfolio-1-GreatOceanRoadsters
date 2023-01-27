@@ -161,7 +161,7 @@ nav ul li a {
 
 #attractions-title {
     text-align: center;
-    font-size:10vh;
+    font-size:9vh;
     margin-top: 5px;
     width: 90vw;
 }
@@ -321,8 +321,8 @@ details > summary {
 
 }
 
-@media only screen and (max-width: 400px) {
-    #hero-text{
+@media only screen and (max-width: 500px) {
+    .hero-text{
         padding-left: 75px;
     }
 
