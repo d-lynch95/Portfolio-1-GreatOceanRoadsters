@@ -313,6 +313,22 @@ details > summary {
     font-size: larger;
 }
 
+
+@media only screen and (max-width: 600px) {
+    .hero-image-itinerary {
+        padding-top: 150px;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+    #hero-text{
+        padding-left: 75px;
+    }
+
+
+}
+
 /* Itinerary 3 day plan */
 
 .day-title {
