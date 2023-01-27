@@ -399,6 +399,22 @@ details > summary {
     }
 }
 
+/* Itinerary page iframe */
+
+#video {
+    width: 100vw;
+    height: 40vw;
+    margin-top: 30px;
+}
+    
+@media only screen and (max-width: 768px) {
+    #video {
+        width: 100vw;
+        height: 30vh;
+        margin-top: 20px;
+    }
+}
+
 /* Gallery Page */
 
 .gallery-grid-container {
@@ -430,7 +446,6 @@ details > summary {
         width:100%;
     }
 }
-
 
 /* Contact us form hero image */
 
@@ -521,10 +536,6 @@ details > summary {
 
 .address-format {
     font-size: 30px;
-}
-
-@media only screen and (max-width: 768px) {
-
 }
 
 /* Form submission page cover photo*/
