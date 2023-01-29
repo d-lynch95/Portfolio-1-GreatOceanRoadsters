@@ -504,6 +504,8 @@ details > summary {
     padding-top:200px;
 }
 
+/* Contact form */
+
 #contactform {
         margin: 10% 10% 10% 10%;
         color: #fff;
@@ -526,6 +528,12 @@ details > summary {
   cursor: pointer;
   border: none;
   margin-left: 20px;
+}
+
+.box {
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
 }
 
 /* Contact us section */
