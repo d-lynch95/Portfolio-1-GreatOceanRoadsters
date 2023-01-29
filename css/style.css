@@ -173,14 +173,14 @@ nav ul li a {
 }
 
 .attractions-pics {
-    height: 33vh;
+    height: auto;
     width: 25vw;
     border-radius: 40%;
 }
 
 .attractions-row-one {
     display:flex;
-    width: 100vw;
+    width: 95vw;
 }
 
 .image-text-wrap {
@@ -192,7 +192,7 @@ nav ul li a {
 }
 
 .image-flex {
-    width: 50vw;
+    width: 47vw;
     display: flex;
     align-content: flex-start;
     padding: 5px;
