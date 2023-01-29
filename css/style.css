@@ -189,10 +189,11 @@ nav ul li a {
     flex-wrap: nowrap;
     width: 50vw;
     justify-content: center;
+    padding-left: 15px;
 }
 
 .image-flex {
-    width: 47vw;
+    width: 49vw;
     display: flex;
     align-content: flex-start;
     padding: 5px;
