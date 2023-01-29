@@ -172,6 +172,15 @@ nav ul li a {
     font-family: Unbounded;
 }
 
+@media only screen and (max-width:480px) {
+    #attractions-title {
+        font-size: 5vh;
+        width: 70vw;
+        text-align: center;
+        padding-left: 50px;
+    }
+}
+
 .attractions-pics {
     height: auto;
     width: 25vw;
