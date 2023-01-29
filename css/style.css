@@ -697,7 +697,7 @@ footer i {
 
 @media only screen and (max-width: 768px) {
     #error-page {
-        top: 60px;
+        padding-top: 300px;
     }
 
 }
