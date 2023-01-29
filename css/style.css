@@ -597,7 +597,6 @@ details > summary {
 .overlay-submission {
     position:absolute;
     height:100%;
-    width: 100%;
     top: 0;
     left: 15vw;
     background: rgba(0, 0, 0, 0); 
@@ -612,7 +611,6 @@ details > summary {
 
 @media only screen and (max-width: 870px) {
     .overlay-submission {
-        width: 90vw;
         top: 15vh;
     }
 }
