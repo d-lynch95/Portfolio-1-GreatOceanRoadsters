@@ -677,20 +677,20 @@ footer i {
 
 /* Error 404 page */
 
-#404-page {
+#error-page {
     text-align: center;
 }
 
-#404 {
+#error {
     font-family: 'Unbounded';
     text-align: center;
 }
 
-#404-link {
+#error-link {
     text-decoration: none;
     color: black;
 }
 
-#404-link :hover {
+#error-link :hover {
     text-decoration: underline;
 }
