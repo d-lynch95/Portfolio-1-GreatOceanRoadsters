@@ -431,6 +431,10 @@ details > summary {
         padding-top: 10px;
     }
 
+    .itinerary-text p {
+        text-align: center;
+    }
+
     .itinerary-link {
         padding: 50px;
     }
