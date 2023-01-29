@@ -675,7 +675,7 @@ footer i {
     }
 }
 
-/*Error 404 pager */
+/* Error 404 page */
 
 #404-page {
     text-align: center;
@@ -683,11 +683,12 @@ footer i {
 
 #404 {
     font-family: 'Unbounded';
+    text-align: center;
 }
 
 #404-link {
     text-decoration: none;
-    color: balck;
+    color: black;
 }
 
 #404-link :hover {
