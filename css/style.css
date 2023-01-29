@@ -610,6 +610,13 @@ details > summary {
     font-size: larger;
 }
 
+@media only screen and (max-width: 870px) {
+    .overlay-submission {
+        width: 90vw;
+        top: 15vh;
+    }
+}
+
 /* Footer */
 
 footer {
