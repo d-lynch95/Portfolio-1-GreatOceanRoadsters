@@ -656,6 +656,10 @@ footer i {
     padding-top: 20px;
 }
 
+.underline {
+    text-decoration: none;
+}
+
 @media only screen and (max-width: 870px) {
     footer i {
         color: black;
@@ -689,6 +693,10 @@ footer i {
     #footer-address{
         display: none;
     }
+}
+
+.underline {
+    text-decoration: none;
 }
 
 /* Error 404 page */

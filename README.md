@@ -74,13 +74,15 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 
   - This page has a large hero image along with a sign up form. The sign up form asks for the users basic information and includes a checkbox to allow us to better answer the customers query.   This section also includes contact information such as an email with clickable email link and a phone number that when clicked will allow the user to call directly from their laptop or mobile. The address for the office is also included aswell as an embedded google maps link to allow for easy navigation to our office location in Melbourne.
 
-![Contact Us](media/contact-us-footer.png)
+![Contact form](media/form.webp)
+![Contact Us](media/contact.webp)
 
 
 ### Features Left to Implement
 
-- Another feature idea
--->
+- I would like to add a hamburger menu for mobile and tablet devices for this site when I have the requisite knowledge.
+
+- I would like to format the server in the future to accept form submissions and allow the site owner to view users form submissions.
 
 ## Testing 
 <!-- 
@@ -101,15 +103,17 @@ You should also mention in this section any interesting bugs or problems you dis
 
  - The attractions section on the index page caused a lot of issues as this was the first time working with flexbox. The [Academind](https://www.youtube.com/watch?v=RSIclWvNTdQ) youtube tutorial on CSS V Flexbox was very helpful to resolve these issues.
 
- - When uploading the photos for the attractions page I spent a lot of time struggling with the format of one image. I could not figure out why the css was not working on this one image but had formatted all of the other images correctly. In the end I gave up and opted to change the image. When I changed the image to one of a similar theme the image responded to the css immediately. In hindsight I think the issue may be that the original image was in portrait mode and all of the other images were in landscape...
+ - When uploading the photos for the attractions page I spent a lot of time struggling with the format of one image. I could not figure out why the css was not working on this one image but had formatted all of the other images correctly. In the end I gave up and opted to change the image. When I changed the image to one of a similar theme the image responded to the css immediately. In hindsight I think the issue may be that the original image was in portrait mode and all of the other images were in landscape.
 
- - While creating the hamburger menu I struggled a lot with a certain bug. I was able to format the menu but could not manage to get the menu to open. I struggled with this for a long time until an online blog I was reading suggested moving the script tag to after where the element is declared. I moved the script tag to the bottom of the html page and the hamburger menu began to work without any issues.
+ - While creating the hamburger menu I struggled a lot with a certain bug. I was able to format the menu but could not manage to get the menu to open. I struggled with this for a long time until an online blog I was reading suggested moving the script tag to after where the element is declared. I moved the script tag to the bottom of the html page and the hamburger menu began to work. 
+
+ - The hamburger menu was creating an issue with a box appearing on the left section of the screen when the menu was not selected. I could not remove this box and opted to remove the hamburger menu in favour of a different style of menu for mobile and tablet devices.
 
  - I tried to create a pair of buttons on the index page with class to action of Find Out More and Contact Us. I nested an anchor tag within the button but this did not pass html validation. I searched on [stack overflow](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) and found a solution. In the end I opted to keep the a tag and style it with CSS to resemble a button.
 
   - Once the site was deployed I had issues with viewing the hero images on each page. This was due to the use of absolute file paths. Once we changed them to relative file paths the images loaded without issues.
 
-  - There was an issue with the confirmation.html page. This page was supposed to be the destination for form submission. After receiving help from Sean Young on slack I was told that we do not yet have the requisite knowledge to format the server to accept form submissions. I have added the submission page from the love running project provided by the Code Institute.
+  - There was an issue with the confirmation.html page. This page was supposed to be the destination for form submission. After receiving help from Sean Young on slack I was told that we do not yet have the requisite knowledge to format the server to accept form submissions. I have added a submission confirmation page but do not have the server formatted to accept form submissions.
   
   
 
