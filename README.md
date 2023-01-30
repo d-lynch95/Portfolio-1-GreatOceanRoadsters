@@ -12,24 +12,24 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, Itinerary and Contact us page. The nav bar on each pge is the exact same to allow for ease of navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, Itinerary and Contact us page. The nav bar on each page is the exact same to allow for ease of navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](media/nav-bar.png)
+![Nav Bar](media/nav.webp)
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to know the exact purpose of the website.
   - This section teases the user with a picture of the Twelve apostles geographical feature and the caption "Your guide to one of Australias most scenic drives.
 
-![Landing Page](media/hero-image.png)
+![Landing Page](media/landing.webp)
 
 - __Attractions section__
 
   - The attractions section allows the user to see some of the highlights of the Great Ocean Road and some of the activities or sights they will encounter along the way.  
   - There are two calls to action under the attractions section. One is a 'Find out more' CTA which will link the user to the Itinerary page. The other is a "Contact us" CTA which will link the user to the Contact us page where the user can fill out their details and submit a form to acquire  further information. Both of these buttons will open the page in a new tab to allow the user to return easily to where they had been.
 
-![Attractions](media/attractions-section.png)
+![Attractions](media/attractions.webp)
 
 - __Frequently Asked Questions section__
 
@@ -37,7 +37,7 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
   - This section will have icons beside each question.
   - This section will focus on what, where, when and how.
     What is the great ocean road?
-    How can I navigate it/What is the best way to travel?>
+    How can I navigate it/What is the best way to travel?
     What are the main attractions?
     When is the best time to go?
   - The questions will expand with the answer when clicked. This is intuitive behaviour for an FAQ section.
