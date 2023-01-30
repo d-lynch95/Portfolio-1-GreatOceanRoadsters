@@ -380,6 +380,10 @@ details > summary {
         flex-direction: column;
         align-items: center;
     }
+
+    .pad-title {
+        padding-top:20px;
+    }
 }
 
 #itinerary-flex {
