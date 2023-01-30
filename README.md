@@ -43,16 +43,15 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
   - The questions will expand with the answer when clicked. This is intuitive behaviour for an FAQ section.
      
 
-![FAQ](media/faq-section.png)
+![FAQ](media/faq.webp)
 
 - __The Footer__ 
 
-  - The footer is broken into four sections. It contains a copyright section and a link to the social medias (facebook, twitter, instagram, youtube). It also contains the address for the GreatOceanRoadsters office. The footer also contains three links that act as calls to action.
-  - The three links in the footer are Contact us, Phone us and Email us. The Contact us link takes the user to the Contact Us page in a new tab. While here the user can fill out a form, access our email and phone number information and view our street address aswell as see the address on a googlemaps link. The phone us link will allow the user to phone GreatOceanRoadsters directly and the Email us link will open a new page to email Great Ocean Roadsters directly.
-  - The footer is valuable to the user as it encourages them to keep connected via social media and also to contact us without having to search for our contact information.
+  - The footer is broken into two sections. It contains a address section and a link to the social medias (facebook, twitter, instagram, youtube). 
+  - The footer is valuable to the user as it encourages them to keep connected via social media and also to find our physical address without having to search for our contact information.
   - The footer is the same on all of the webpages to allow for standardisation and ease of use.
 
-![Footer](media/footer-section.png)
+![Footer](media/footer.webp)
 
 - __Itinerary Page__
 
