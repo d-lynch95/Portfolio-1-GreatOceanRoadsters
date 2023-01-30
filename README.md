@@ -168,6 +168,10 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 
 - The ideas for the footer came from [Colibri](https://colibriwp.com/blog/website-footers/)
 
+- The image conversions from jpg to webp were done with [Convertio](https://convertio.co)
+
+- The image compressions were done using [Tinypng](https://tinypng.com)
+
 
 
 
@@ -180,6 +184,7 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 - The youtube iframe footage was taken from [Oleg Smirnov](https://www.youtube.com/watch?v=9OcBGr5-yRE)
 
 - The photos for the gallery were all taken from [Unsplash](https://unsplash.com/s/photos/great-ocean-road)
+
 
 ### Coding help
 
@@ -199,7 +204,7 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 
 - Styling of the attractions images was sourced from [w3schools] (https://www.w3schools.com/css/css3_images.asp)
 
-- The code for the hamburger menu was taken from [this webpage] (https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci)
+- The code for the hamburger menu was taken from [this webpage](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci)
 
 - The bug related to the hamburger menu was solved using help from [this blog] (https://codingbeautydev.com/blog/javascript-cannot-read-property-addeventlistener-of-null/#:~:text=November%2014%2C%202022-,The%20%E2%80%9Ccannot%20read%20property%20'addEventListener'%20of%20null%E2%80%9D%20error,element%20absent%20from%20the%20DOM)
 
@@ -214,6 +219,8 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 - The aria-label for the nav menu was formatted using information from [Acede-web](https://www.accede-web.com/en/guidelines/rich-interface-components/hamburger-menu/)
 
  - I received help on the bug related to the form method attribute from 'Sean Young Alumni' on slack.
+
+ - I also received help from the following slack users for minor bugs or style changes inc21, Tatiana Ruffo, Dave T and I received a lot of help and advice from my mentor Gareth McGirr 
 
 <!--
 ## Other General Project Advice
