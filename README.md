@@ -57,16 +57,18 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 
   - This page will allow the user to view a sample three day itinerary. The page will provide links to the different activities but will not provide too much information. The page will contain links to websites for different activities and also includes a link to our contact page.
 
-  The page also contains an iFrame with an embedded youtube video which displas aerial drone footage of the Great Ocean Road.
+  The page also contains an iFrame with an embedded youtube video which displays lonely planet footage of the Great Ocean Road.
 
-![Itinerary](media/itinerary-page.png)
+![Itinerary](media/itinerary.webp)
+![iFrame](media/iframe.webp)
+
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the attractions look like. 
   - This section is valuable to the user as they will be able to easily visualise the different tourist attractions along the route and will get the user excited for their trip and make them more likely to contact us for more information.
 
-![Gallery](media/gallery-page.png)
+![Gallery](media/gallery.webp)
 
 - __The Contact Us Page__
 
