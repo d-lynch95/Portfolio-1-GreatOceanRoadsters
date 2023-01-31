@@ -27,13 +27,39 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 ### User Stories
 
 #### As a user
+  - As a user I want to learn more about the great ocean road
+  - As a user I want to see photos of the main sights
+  - As a user I want to learn more about the attractions
+  - As a user I want to view a sample itinerary
+  - As a user I want to find contact information for the company
+  - As a user I want to use their services to plan my trip
+  - As a user I want to follow the company on social media 
+
 
 #### As a website business owner
+- As a site owner I want to allow users to visually experience the great ocean road
+- As a site owner I want to excite users and peak their interest
+- As a site owner I want to provide some information so the customer reaches out for more
+- As a site owner I want to allow for a good user experience
+- As a site owner I want to grow my audience on social media in hopes of converting them to customers
+- As a site owner I want to provide contact information if the user wants to reach out
+- As a site owner I want to provide a contact form to allow customers to contact us
+- As a site owner I want to collect potential leads and cross-sells through the contact form
+- As a site owner I want to allow the customer to easily navigate the website without issues
+- As a site owner I want to provide an error 404 page with a link home incase of any issues
+
 
 #### As a new user
-
-
-
+- As a new user I want to learn what the great ocean road is
+- As a new user I want to have my basic questions answered
+- As a new user I want to see photos of the great ocean road
+- As a new user I want to know what I can do there
+- As a new user I want to know how I can find out more information
+- As a new user I want to navigate the page intuitively and with ease
+- As a new user I want to view the company's social media to learn more about them
+- As a new user I want to see the physical address of the company if I want to visit in person
+- As a new user I want to find contact information for the company
+- As a new user I want to know what other services the company provides
 
 ## Features 
 
