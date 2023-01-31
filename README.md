@@ -61,6 +61,13 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 - As a new user I want to find contact information for the company
 - As a new user I want to know what other services the company provides
 
+## Design
+
+The design of this website was based off a very minimalist natural style. We wanted the photos to do most of the heavy lifting so we've opted to go with very visually striking hero images with strong colours of blue, green and yellow. In order to allow the photos to stand out we've gone for a minimalist white background with black text so as to not distract from the photos. 
+
+We wanted a bohemian style logo for the website so we opted to use the 'Satisfy' font from Google fonts. We noticed that this font did not work well for the other headers so we changed the font to 'Unbounded' for the rest of the text and we found this font worked very well for the theme we were going for. Using Google font pairings we opted to use 'Lora' for the main body
+
+
 ## Features 
 
 ### Existing Features
