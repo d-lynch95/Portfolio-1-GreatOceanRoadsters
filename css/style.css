@@ -85,10 +85,6 @@ nav ul li a {
         padding-bottom: 2vh;
     }
 
-    #nav-list li ::hover {
-        text-decoration: underline;
-    }
-
     #logo {
         padding-right: 0;
     }
