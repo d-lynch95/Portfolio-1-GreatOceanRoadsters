@@ -165,6 +165,10 @@ We went for a simple four page website with a confirmation page following form s
 ![Contact form](media/form.webp)
 ![Contact Us](media/contact.webp)
 
+- ___ Error 404 Page ___
+  - This page will help the user navigate back to the home page if there is any typo or broken links in the site. This page will contain the nav bar to help navigate and also a clickable link to return home.
+
+![Error 404](media/error404.webp)
 
 ### Features Left to Implement
 
@@ -202,6 +206,9 @@ We went for a simple four page website with a confirmation page following form s
 ### User Testing
 
 The site was tested on chrome, safari and opera browsers on desktop without any issues. The site was tested on desktop, tablet and mobile using chrome developer tools. The actual tablet testing was done on an ipad. The mobile testing was done on an iphone 12 using the safari browser and also tested on android devices OnePlus 7 and OnePlus Nord CE on chrome browsers. The site was also tested on a samsung phone using the opera browser. None of the tablet or mobile devices presented any issues.
+
+
+
 
 ### Validator Testing 
 
