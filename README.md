@@ -2,11 +2,40 @@
 
 Great Ocean Roadsters is a website designed for travelers by travelers. The site aims to provide useful information for anyone traveling on the Great Ocean Road in Victoria, Australia.  Whether you're backpacking in Australia, on a family holiday or an Aussie getting out to see your own country we provide all the information you need to make the most of your trip. This website will provide a sample three day intinerary with the option to contact us to have the perfect personalised itinerary designed just for you or to help organise a guided tour or car rental. 
 
-
+[Live Website](https://d-lynch95.github.io/Portfolio-1-GreatOceanRoadsters/index.html)
 ![AmiResponsive Mockup](media/responsive.webp)
-## Features 
 
-<!-- In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things. -->
+## User Goals and Stories
+
+### User goals
+- As a user I want to
+  - learn more about the great ocean road.
+  - easily and intuitively navigate throughout the website
+  - browse the website naturally and return home with ease
+  - easily access the navigation menu at any time
+  - be able to view the website and read all information on all screen sizes
+  - view clear images throughout the site especially of the main attractions
+  - be able to reach out to the company for more information
+
+### Business owner goals
+- As the website business owner I want to 
+  - deliver clear information about the great ocean road
+  - provide amazing photos to excite the website user
+  - provide enough information to entice the customer to look for more information
+  - make it easy for customers to reach out to the business
+
+### User Stories
+
+#### As a user
+
+#### As a website business owner
+
+#### As a new user
+
+
+
+
+## Features 
 
 ### Existing Features
 
