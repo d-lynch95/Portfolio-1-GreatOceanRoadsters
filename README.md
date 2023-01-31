@@ -63,10 +63,36 @@ Great Ocean Roadsters is a website designed for travelers by travelers. The site
 
 ## Design
 
+### Font
 The design of this website was based off a very minimalist natural style. We wanted the photos to do most of the heavy lifting so we've opted to go with very visually striking hero images with strong colours of blue, green and yellow. In order to allow the photos to stand out we've gone for a minimalist white background with black text so as to not distract from the photos. 
 
 We wanted a bohemian style logo for the website so we opted to use the 'Satisfy' font from Google fonts. We noticed that this font did not work well for the other headers so we changed the font to 'Unbounded' for the rest of the text and we found this font worked very well for the theme we were going for. Using Google font pairings we opted to use 'Lora' for the main body
 
+### Structure
+
+We went for a simple four page website with a confirmation page following form submission and an error 404 page with a link back to the homepage. We found this format was easiest to allow users to navigate the website and achieve their user goals without the website becoming too complicated or clutered.
+
+## Technologies used
+- HTML
+  - The main body of the website was created using HTML
+- CSS
+  - The website was styled using a linked CSS file
+- GitHub
+  - The website is hosted on GitHub
+- GitPod
+  - The website was developed on GitPod
+- Git 
+  - used to commit and push code during development
+- FontAwesome
+  - Icons used for social media links and FAQ icons were obtained from [here](https://fontawesome.com/)
+- Convertio.co
+  - [This](https://convertio.co/) site was used to convert jpg and png files to webp files
+- Tinypng
+  - [TinyPNG](https://tinypng.com/) was used to reduce file sizes across the site
+- Favicon.io 
+  - This site was used to create the [favicon](https://favicon.io/) files
+- Balsamiq
+  - The original wireframe idea was created using [Balsamiq](https://balsamiq.com/wireframes/desktop/#)
 
 ## Features 
 
