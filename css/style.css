@@ -450,7 +450,7 @@ details > summary {
 }
 
 /* Itinerary page iframe */
-
+/* 
 #video {
     width: 100vw;
     height: 40vw;
@@ -463,7 +463,7 @@ details > summary {
         height: 30vh;
         margin-top: 20px;
     }
-}
+} */
 
 /* Gallery Page */
 
@@ -628,6 +628,27 @@ details > summary {
 @media only screen and (max-width: 870px) {
     .overlay-submission {
         top: 15vh;
+    }
+}
+
+/* Iframe dimensions */
+
+.iframe {
+    width: 80vw;
+    height: 50vh;
+    padding-left: 10vw;
+    padding-top: 5vh;
+    border:none;
+}
+
+@media only screen and (max-width: 870px) {
+
+    .iframe {
+        width: 99vw;
+        height: 50vh;
+        padding-left: 1px;
+    
+
     }
 }
 
