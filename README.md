@@ -165,6 +165,11 @@ We went for a simple four page website with a confirmation page following form s
 ![Contact form](media/form.webp)
 ![Contact Us](media/contact.webp)
 
+- ___ Form submission landing page ___
+ - This page allows the user to know that their form has been submitted and that someone will contact them using the information that they have provided. The user is greeted with a large hero image with the text "We got this one. We'll be in contact soon". This page has a nav bar at the top to allow the user to easily return back to the other web pages.
+
+ ![Form Submission](media/submission.webp)
+
 - ___ Error 404 Page ___
   - This page will help the user navigate back to the home page if there is any typo or broken links in the site. This page will contain the nav bar to help navigate and also a clickable link to return home.
 
