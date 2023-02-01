@@ -287,7 +287,10 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
   ![Gallery Page](media/validator/gallery-validator.png)
 
   - No errors were reported for the contact us page [W3C validator]()
-  ![Contact Us]()
+  ![Contact Us](media/validator/contact-validator.png)
+
+  - No errors were reported for the confirmation page [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Fcomfirmation.html%3Ffname%3DTest%26lname%3Dtesty%26email%3Dtest%2540testy.com%26phone%3D00000000%26itinerary%3Don%26Let%2527s%2BGo%2521%3DSubmit)
+  ![Confirmation](media/validator/confirmation-validator.pngcontacrt)
 
 
   -
