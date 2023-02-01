@@ -239,7 +239,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 ![Index Wave](media/accesable/index_wave.webp)
 
 - Itinerary page
-![Itinerary Lighthouse]()
+![Itinerary Lighthouse](media/accesable/Itinerary_lighthouse.webp)
 ![Itinerary Wave](media/accesable/itinerary_wave.webp)
 
 - Gallery page
@@ -248,7 +248,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 
 - Contact Us page
 ![Contact Lighthouse](media/accesable/Contact_lighthouse.webp)
-![Contact Wave]()
+![Contact Wave](media/accesable/)
 
 - Confirmation page
 ![Confirmation Lighthouse](media/accesable/Confirmation_lighthouse.webp)
