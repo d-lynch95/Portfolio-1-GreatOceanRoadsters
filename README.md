@@ -281,6 +281,32 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 - CSS
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+
+### Manual Testing
+
+#### Functional Testing 
+
+We tested the links in the navigation section of the header for all pages on multiple devices.
+
+| Navigation link  | Page to load  |
+| -----------      | -----------   |
+| Logo             | index.html    |
+| Home             | index.html    |
+| Itinerary        | itinerary.html|
+| Gallery          | gallery.html  |
+| Contact Us       | contact.html  |
+
+All of these links worked as expected and lead to the correct pages.
+
+We tested the two buttons on the index page. The "Find out more" button links to the itinerary.html page in a new tab. This worked without any issues.
+The Contact Us button takes us to contactus.html in a new tab. This did not present any issues.
+
+When the FAQ section questions are clicked the answer should appear beneath in a details and summary section. We tested this for all of the questions on multiple browsers on desktop, mobile and tablet. All of the questions present the answers when clicked as expected.
+
+We also tested the social media links at the bottom of the page and they all led to the respective social media sites.
+
+
+
 ### Unfixed Bugs
  - There are no current bugs that we're aware of.
 
