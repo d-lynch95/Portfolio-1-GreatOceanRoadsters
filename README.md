@@ -423,8 +423,10 @@ The live link can be found here - https://d-lynch95.github.io/Portfolio-1-GreatO
 
 - The styling for the CTA anchor tags on the index page was taken from [FreeCodeCamp](https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/)
 
+- I received a lot of assistance on creating the readme from other CI slack users namely [Siobhan Gorman](https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md#user-stories) , [Gareth McGirr](https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md) and [Jarrad Baker](https://jarradbaker-cipp1skates-4jhsh0to8md.ws-us85.gitpod.io/)
+
 - The aria-label for the nav menu was formatted using information from [Acede-web](https://www.accede-web.com/en/guidelines/rich-interface-components/hamburger-menu/)
 
  - I received help on the bug related to the form method attribute from 'Sean Young Alumni' on slack.
 
- - I also received help from the following slack users for minor bugs or style changes inc21, Tatiana Ruffo, Dave T, Jo_ci and I received a lot of help and advice from my mentor Gareth McGirr 
+ - I also received help from the following slack users for minor bugs or style changes inc21, Tatiana Ruffo, Dave T, Jo_ci and I received a lot of help and advice from my mentor Gareth McGirr and from Paul Thomas our cohort leader.
