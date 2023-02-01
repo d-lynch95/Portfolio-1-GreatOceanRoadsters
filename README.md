@@ -306,6 +306,12 @@ When the FAQ section questions are clicked the answer should appear beneath in a
 We also tested the social media links at the bottom of the page and they all led to the respective social media sites.
 
 
+On the itinerary page we tested the clickable links in the text. Each attraction when clicked leads to a wikipedia or website entry about the attraction. We tried this on multiple browsers and on mobile devices and the links opened without any issues.
+
+The itinerary page also contains underlined links that connect to the contactus.html page when clicked. These links all work as expected and open the link in the new tab.
+
+We tested the controls of the iframe youtube video on mobile, tablet and laptop. Users have the ability to start and stop the video as needed, increase or decrease volume and view in fullscreen.
+
 
 ### Unfixed Bugs
  - There are no current bugs that we're aware of.
