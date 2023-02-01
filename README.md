@@ -278,6 +278,19 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Findex.html)
+  ![Index page](media/validator/index-validator.png)
+
+  - No errors were reported for the itineray page [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Fitinerary.html)
+  ![Itinerary page](media/validator/itinerary-validator.png)
+
+  - No errors were reported for the gallery page [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Fgallery.html)
+  ![Gallery Page](media/validator/gallery-validator.png)
+
+  - No errors were reported for the contact us page [W3C validator]()
+  ![Contact Us]()
+
+
+  -
 - CSS
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
