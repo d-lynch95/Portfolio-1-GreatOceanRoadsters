@@ -72,6 +72,19 @@ We wanted a bohemian style logo for the website so we opted to use the 'Satisfy'
 
 We went for a simple four page website with a confirmation page following form submission and an error 404 page with a link back to the homepage. We found this format was easiest to allow users to navigate the website and achieve their user goals without the website becoming too complicated or clutered.
 
+### Wireframe
+
+The site has developed a lot since the original wireframes were created. The original wirerames were not created in a mobile first environment and instead reflect a desktop site. This was an interesting learning experience during this project. In future we will develop websites in a mobile first environment.
+
+##### Index Page
+
+![Index]()
+
+#### Itinerary page
+![Itinerary]()
+
+#### Confirmation page
+
 ## Technologies used
 - HTML
   - The main body of the website was created using HTML
@@ -214,6 +227,20 @@ We went for a simple four page website with a confirmation page following form s
 ### User Testing
 
 The site was tested on chrome, safari and opera browsers on desktop without any issues. The site was tested on desktop, tablet and mobile using chrome developer tools. The actual tablet testing was done on an ipad. The mobile testing was done on an iphone 12 using the safari browser and also tested on android devices OnePlus 7 and OnePlus Nord CE on chrome browsers. The site was also tested on a samsung phone using the opera browser. None of the tablet or mobile devices presented any issues.
+
+
+### Accesability
+
+- Home page
+
+- Itinerary page
+
+- Gallery page
+
+- Contact Us page
+
+- Confirmation page
+
 
 
 
