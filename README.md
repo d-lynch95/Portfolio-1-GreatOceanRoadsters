@@ -78,12 +78,14 @@ The site has developed a lot since the original wireframes were created. The ori
 
 ##### Index Page
 
-![Index]()
+![Index](wireframes/Index_wireframe.png)
 
 #### Itinerary page
-![Itinerary]()
+![Itinerary](wireframes/Itinerary_wireframe.png)
 
-#### Confirmation page
+#### Contact us page
+![Contact Us](wireframes/Contact_wireframe.png)
+
 
 ## Technologies used
 - HTML
