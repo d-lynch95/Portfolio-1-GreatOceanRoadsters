@@ -312,6 +312,29 @@ The itinerary page also contains underlined links that connect to the contactus.
 
 We tested the controls of the iframe youtube video on mobile, tablet and laptop. Users have the ability to start and stop the video as needed, increase or decrease volume and view in fullscreen.
 
+The contactus.html page required more indepth manual testing as we had several features that needed to be tested.
+
+- Contact form
+  - 
+
+
+- Email us
+  - Expectation: When the user clicks the email address a seperate window will open to allow the user to compose an email.
+
+  - Reality: When tested on a macbook, a new 'mail' application will open with the email address autofilled allowing the user to email the company directly.
+    When clicked on an android device the gmail app will open with the company email address autofilled allowing for ease of use
+
+  - result: pass
+
+- Phone Us
+  - Expectation: When the phone number is clicked the user will be able to phone the supplied number directly
+
+  - Reality: When the phone number is clicked on a mobile device the phone will autofill the number and allow you to dial. 
+    When the phone number is clicked on desktop the connected phone number on google chrome will pop up and give you the option to "Make a call from OnePlus".
+    When the phone number is clicked on while using safari the facetime app will open and allow you to call.
+
+  - result : pass
+
 
 ### Unfixed Bugs
  - There are no current bugs that we're aware of.
