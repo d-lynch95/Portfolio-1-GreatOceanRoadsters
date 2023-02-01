@@ -244,7 +244,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 - Itinerary page
 
 
-![Itinerary Lighthouse](media/accesable/Itinerary_lighthouse.webp)
+![Itinerary Lighthouse](media/accesable/new-itinerary-lighthouse.webp)
 ![Itinerary Wave](media/accesable/itinerary_wave.webp)
 
 
@@ -252,7 +252,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 - Gallery page
 
 
-![Gallery Lighthouse](media/accesable/gallery_lighthouse.webp)
+![Gallery Lighthouse](media/accesable/new-gallery-lighthouse.webp)
 ![Gallery Wave](media/accesable/gallery_wave.webp)
 
 
@@ -260,7 +260,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 - Contact Us page
 
 
-![Contact Lighthouse](media/accesable/Contact_lighthouse.webp)
+![Contact Lighthouse](media/accesable/new-contactus-lighthouse.webp)
 ![Contact Wave](media/accesable/)
 
 
