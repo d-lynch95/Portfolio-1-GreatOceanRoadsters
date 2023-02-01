@@ -235,22 +235,39 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 
 - Home page
 
+
 ![Index Lighthouse](media/accesable/Index_lighthouse.webp)
 ![Index Wave](media/accesable/index_wave.webp)
 
+
+
 - Itinerary page
+
+
 ![Itinerary Lighthouse](media/accesable/Itinerary_lighthouse.webp)
 ![Itinerary Wave](media/accesable/itinerary_wave.webp)
 
+
+
 - Gallery page
+
+
 ![Gallery Lighthouse](media/accesable/gallery_lighthouse.webp)
 ![Gallery Wave](media/accesable/gallery_wave.webp)
 
+
+
 - Contact Us page
+
+
 ![Contact Lighthouse](media/accesable/Contact_lighthouse.webp)
 ![Contact Wave](media/accesable/)
 
+
+
 - Confirmation page
+
+
 ![Confirmation Lighthouse](media/accesable/Confirmation_lighthouse.webp)
 ![Confirmation Wave](media/accesable/Confirmation_wave.webp)
 
