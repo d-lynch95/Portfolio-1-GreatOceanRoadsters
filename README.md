@@ -290,12 +290,12 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
   ![Contact Us](media/validator/contact-validator.png)
 
   - No errors were reported for the confirmation page [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Fcomfirmation.html%3Ffname%3DTest%26lname%3Dtesty%26email%3Dtest%2540testy.com%26phone%3D00000000%26itinerary%3Don%26Let%2527s%2BGo%2521%3DSubmit)
-  ![Confirmation](media/validator/confirmation-validator.pngcontacrt)
+  ![Confirmation](media/validator/confirmation-validator.png)
 
 
   -
 - CSS
-  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fd-lynch95.github.io%2FPortfolio-1-GreatOceanRoadsters%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#warnings)
 
 
 ### Manual Testing
