@@ -66,6 +66,27 @@ nav ul li a {
         padding-right: 0;
     }
 
+    /* Index page attractions section */
+
+    .zoom {
+        transition: transform .2s; /* Animation */
+      }
+      
+      .zoom:hover {
+        transform: scale(1.05); 
+      }
+
+      /* Itinerary Page */
+
+      #itinerary-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pad-title {
+        padding-top:20px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -88,6 +109,98 @@ nav ul li a {
     #logo {
         padding-right: 0;
     }
+
+    /* Index Page Hero Image */
+
+    .hero-image {
+        padding-top: 150px;
+    }
+
+    .hidden-text {
+        visibility: hidden;
+        display: flex;
+        align-content: center;
+    }
+
+    /* Attractions Section */
+
+    .attractions-row-one{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        width:100%;
+    }
+
+    .image-flex {
+        width: 97%;
+    }
+
+    .image-text-wrap{
+        width: 50%;
+    }
+
+    .attractions-pics{
+        width:55%;
+    }
+
+    /* Itinerary Page Layout */
+    .itinerary-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #day-one{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #day-three {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .grid-photos {
+    width:100%;
+    height:auto;
+    border-radius: 10%;
+    }
+
+    .itinerary-text{
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .itinerary-link {
+        padding: 50px;
+    }
+
+    div li {
+        list-style: none;
+        padding-top: 35px;
+    }
+
+    /* Gallery Page */
+    .gallery-grid-container {
+        display: grid;
+        grid-template-columns: 50% auto;
+        padding-top: 27vh;
+        row-gap: 1vh;
+        column-gap: 1vw;
+        padding-left: 10px;
+    }
+
+    .gallery-grid-item {
+        width:100%;
+    }
+
+    /* 404 page */
+
+    #error-page {
+        padding-top: 300px;
+    }
+
 }
 
 @media only screen and (max-width: 483px) {
@@ -95,6 +208,13 @@ nav ul li a {
     #logo {
         font-size: 20px;
         padding: 30px 1px 10px 10px;
+    }
+
+    #attractions-title {
+        font-size: 5vh;
+        width: 70vw;
+        text-align: center;
+        padding-left: 50px;
     }
 
 }
@@ -133,32 +253,6 @@ nav ul li a {
 }
 
 
-@media only screen and (max-width: 768px) {
-
-    .hero-image {
-        padding-top: 150px;
-    }
-
-    .hidden-text {
-        visibility: hidden;
-        display: flex;
-        align-content: center;
-    }
-}
-
-/* Index page attractions section */
-
-@media only screen and (min-width: 769px) {
-
-.zoom {
-    transition: transform .2s; /* Animation */
-  }
-  
-  .zoom:hover {
-    transform: scale(1.05); 
-  }
-}
-
 .attractions-subtitle{
     font-family: Unbounded;
 }
@@ -171,14 +265,7 @@ nav ul li a {
     font-family: Unbounded;
 }
 
-@media only screen and (max-width:480px) {
-    #attractions-title {
-        font-size: 5vh;
-        width: 70vw;
-        text-align: center;
-        padding-left: 50px;
-    }
-}
+/* Attractions section */
 
 .attractions-pics {
     height: auto;
@@ -231,30 +318,6 @@ nav ul li a {
 .index-cta:hover{
     text-decoration: underline;
     font-size: 17px;
-}
-
-@media only screen and (max-width: 768px) {
-    .attractions-row-one{
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-        align-content: center;
-        justify-content: center;
-        width:100%;
-    }
-
-    .image-flex {
-        width: 97%;
-    }
-
-    .image-text-wrap{
-        width: 50%;
-    }
-
-    .attractions-pics{
-        width:55%;
-    }
-
 }
 
 /* FAQ section on index page */
@@ -333,15 +396,12 @@ details > summary {
     .hero-image-itinerary {
         padding-top: 150px;
     }
-
 }
 
 @media only screen and (max-width: 500px) {
     .hero-text{
         padding-left: 75px;
     }
-
-
 }
 
 /* Itinerary 3 day plan */
@@ -373,18 +433,6 @@ details > summary {
 
 /* Itinerary page layout */
 
-@media only screen and (min-width: 769px) {
-    #itinerary-flex {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .pad-title {
-        padding-top:20px;
-    }
-}
-
 #itinerary-flex {
     display: flex;
     flex-direction: column;
@@ -406,63 +454,9 @@ details > summary {
     color:#101010;
 }
 
-
-@media only screen and (max-width: 768px) {
-    .itinerary-container{
-        display: flex;
-        flex-direction: column;
-    }
-
-    #day-one{
-        display: flex;
-        flex-direction: column-reverse;
-    }
-
-    #day-three {
-        display: flex;
-        flex-direction: column-reverse;
-    }
-
-    .grid-photos {
-    width:100%;
-    height:auto;
-    border-radius: 10%;
-    }
-
-    .itinerary-text{
-        text-align: center;
-        padding-top: 10px;
-    }
-
-    .itinerary-link {
-        padding: 50px;
-    }
-
-    div li {
-        list-style: none;
-        padding-top: 35px;
-    }
-}
-
 #day-three-text {
     text-align: center;
 }
-
-/* Itinerary page iframe */
-/* 
-#video {
-    width: 100vw;
-    height: 40vw;
-    margin-top: 30px;
-}
-    
-@media only screen and (max-width: 768px) {
-    #video {
-        width: 100vw;
-        height: 30vh;
-        margin-top: 20px;
-    }
-} */
 
 /* Gallery Page */
 
@@ -478,22 +472,6 @@ details > summary {
     height: 30vw;
     width: 100%;
     border-radius: 3%;
-}
-
-@media only screen and (max-width: 768px) {
-
-    .gallery-grid-container {
-        display: grid;
-        grid-template-columns: 50% auto;
-        padding-top: 27vh;
-        row-gap: 1vh;
-        column-gap: 1vw;
-        padding-left: 10px;
-    }
-
-    .gallery-grid-item {
-        width:100%;
-    }
 }
 
 /* Contact us form hero image */
@@ -740,8 +718,5 @@ footer i {
 }
 
 @media only screen and (max-width: 768px) {
-    #error-page {
-        padding-top: 300px;
-    }
-
+    
 }
