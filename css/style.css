@@ -51,158 +51,6 @@ nav ul li a {
     color:black;
 }
 
-@media only screen and (min-width: 769px){
-    #nav-list{
-        width: 50vw;
-        display:flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
-        font-size: 2vh;
-        margin-left: 4vw;
-    }
-
-    #logo {
-        padding-right: 0;
-    }
-
-    /* Index page attractions section */
-
-    .zoom {
-        transition: transform .2s; /* Animation */
-      }
-      
-      .zoom:hover {
-        transform: scale(1.05); 
-      }
-
-      /* Itinerary Page */
-
-      #itinerary-flex {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .pad-title {
-        padding-top:20px;
-    }
-}
-
-@media only screen and (max-width: 768px) {
-
-    header {
-        position:fixed;
-    }
-
-    #nav-list {
-        display:flex;
-        flex-direction: column;
-        margin-bottom: 20px;
-        font-family: 'Unbounded';
-    }
-
-    #nav-list li {
-        padding-bottom: 2vh;
-    }
-
-    #logo {
-        padding-right: 0;
-    }
-
-    /* Index Page Hero Image */
-
-    .hero-image {
-        padding-top: 150px;
-    }
-
-    .hidden-text {
-        visibility: hidden;
-        display: flex;
-        align-content: center;
-    }
-
-    /* Attractions Section */
-
-    .attractions-row-one{
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-        align-content: center;
-        justify-content: center;
-        width:100%;
-    }
-
-    .image-flex {
-        width: 97%;
-    }
-
-    .image-text-wrap{
-        width: 50%;
-    }
-
-    .attractions-pics{
-        width:55%;
-    }
-
-    /* Itinerary Page Layout */
-    .itinerary-container{
-        display: flex;
-        flex-direction: column;
-    }
-
-    #day-one{
-        display: flex;
-        flex-direction: column-reverse;
-    }
-
-    #day-three {
-        display: flex;
-        flex-direction: column-reverse;
-    }
-
-    .grid-photos {
-    width:100%;
-    height:auto;
-    border-radius: 10%;
-    }
-
-    .itinerary-text{
-        text-align: center;
-        padding-top: 10px;
-    }
-
-    .itinerary-link {
-        padding: 50px;
-    }
-
-    div li {
-        list-style: none;
-        padding-top: 35px;
-    }
-
-    /* Gallery Page */
-    .gallery-grid-container {
-        display: grid;
-        grid-template-columns: 50% auto;
-        padding-top: 27vh;
-        row-gap: 1vh;
-        column-gap: 1vw;
-        padding-left: 10px;
-    }
-
-    .gallery-grid-item {
-        width:100%;
-    }
-
-    /* 404 page */
-
-    #error-page {
-        padding-top: 300px;
-    }
-
-}
-
 @media only screen and (max-width: 483px) {
 
     #logo {
@@ -717,6 +565,154 @@ footer i {
     text-decoration: underline;
 }
 
+@media only screen and (min-width: 769px){
+    #nav-list{
+        width: 50vw;
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 2vh;
+        margin-left: 4vw;
+    }
+
+    #logo {
+        padding-right: 0;
+    }
+
+    /* Index page attractions section */
+
+    .zoom {
+        transition: transform .2s; /* Animation */
+      }
+      
+      .zoom:hover {
+        transform: scale(1.05); 
+      }
+
+      /* Itinerary Page */
+
+      #itinerary-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pad-title {
+        padding-top:20px;
+    }
+}
+
 @media only screen and (max-width: 768px) {
-    
+
+    header {
+        position:fixed;
+    }
+
+    #nav-list {
+        display:flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        font-family: 'Unbounded';
+    }
+
+    #nav-list li {
+        padding-bottom: 2vh;
+    }
+
+    #logo {
+        padding-right: 0;
+    }
+
+    /* Index Page Hero Image */
+
+    .hero-image {
+        padding-top: 150px;
+    }
+
+    .hidden-text {
+        visibility: hidden;
+        display: flex;
+        align-content: center;
+    }
+
+    /* Attractions Section */
+
+    .attractions-row-one{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        width:100%;
+    }
+
+    .image-flex {
+        width: 97%;
+    }
+
+    .image-text-wrap{
+        width: 50%;
+    }
+
+    .attractions-pics{
+        width:55%;
+    }
+
+    /* Itinerary Page Layout */
+    .itinerary-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #day-one{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #day-three {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .grid-photos {
+    width:100%;
+    height:auto;
+    border-radius: 10%;
+    }
+
+    .itinerary-text{
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .itinerary-link {
+        padding: 50px;
+    }
+
+    div li {
+        list-style: none;
+        padding-top: 35px;
+    }
+
+    /* Gallery Page */
+    .gallery-grid-container {
+        display: grid;
+        grid-template-columns: 50% auto;
+        padding-top: 27vh;
+        row-gap: 1vh;
+        column-gap: 1vw;
+        padding-left: 10px;
+    }
+
+    .gallery-grid-item {
+        width:100%;
+    }
+
+    /* 404 page */
+
+    #error-page {
+        padding-top: 300px;
+    }
+
 }
