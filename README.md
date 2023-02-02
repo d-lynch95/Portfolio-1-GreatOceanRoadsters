@@ -334,7 +334,19 @@ We tested the controls of the iframe youtube video on mobile, tablet and laptop.
 The contactus.html page required more indepth manual testing as we had several features that needed to be tested.
 
 - Contact form
-  - (Input testing here)
+  - Expectation : User inputs all information correctly, form is submitted and takes you to the confirmation page.
+
+  - Reality : This worked as expected on mobile, tablet and desktop.
+
+  - Result: pass
+
+  - Expectation: When information is input but a correct email format is not provided this will be flagged and form will not be submitted.
+
+  - Reality: When an incorrect format is input a pop up will appear asking user to input a correct email address. This happened on all devices,
+
+  - Result: pass
+
+  
 
 
 - Email us
@@ -343,7 +355,7 @@ The contactus.html page required more indepth manual testing as we had several f
   - Reality: When tested on a macbook, a new 'mail' application will open with the email address autofilled allowing the user to email the company directly.
     When clicked on an android device the gmail app will open with the company email address autofilled allowing for ease of use
 
-  - result: pass
+  - Result: pass
 
 - Phone Us
   - Expectation: When the phone number is clicked the user will be able to phone the supplied number directly
@@ -352,7 +364,7 @@ The contactus.html page required more indepth manual testing as we had several f
     When the phone number is clicked on desktop the connected phone number on google chrome will pop up and give you the option to "Make a call from OnePlus".
     When the phone number is clicked on while using safari the facetime app will open and allow you to call.
 
-  - result : pass
+  - Result : pass
 
 
 ### Unfixed Bugs
