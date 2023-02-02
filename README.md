@@ -79,12 +79,15 @@ The site has developed a lot since the original wireframes were created. The ori
 ##### Index Page
 
 ![Index](wireframes/Index_wireframe.png)
+![Index Mobile](wireframes/index-mobile.png)
 
 #### Itinerary page
 ![Itinerary](wireframes/Itinerary_wireframe.png)
+![Itinerary mobile](wireframes/itinerary-mobile.png)
 
 #### Contact us page
 ![Contact Us](wireframes/Contact_wireframe.png)
+![Contact Us Mobile](wireframes/contact-mobile.png)
 
 
 ## Technologies used
