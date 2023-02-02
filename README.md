@@ -264,7 +264,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 
 
 ![Contact Lighthouse](media/accesable/new-contactus-lighthouse.webp)
-![Contact Wave](media/accesable/)
+![Contact Wave](media/accesable/contact-wave.png)
 
 
 
