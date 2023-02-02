@@ -71,7 +71,7 @@ nav ul li a {
     background-size: cover;
     background-position: 50% 50%;
     background-image: url('../images/pexels-twelveap.webp');
-    z-index: -1;
+    z-index: index;
 }
 
 .overlay {
@@ -89,9 +89,17 @@ nav ul li a {
     flex-direction: column;
     font-size: larger;
     font-family: 'Unbounded';
-    z-index:1;
+    z-index: index 2;;
 }
 
+#contrast{
+    background-color: #101010;
+    height: 70vh;
+    width: 97vw;
+    z-index:-1;
+}
+
+/* Attractions section */
 
 .attractions-subtitle{
     font-family: Unbounded;
@@ -114,8 +122,6 @@ nav ul li a {
         padding-left: 50px;
     }
 }
-
-/* Attractions section */
 
 .attractions-pics {
     height: auto;
