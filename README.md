@@ -239,7 +239,7 @@ The site was tested on chrome, safari and opera browsers on desktop without any 
 - Home page
 
 
-![Index Lighthouse](media/accesable/Index_lighthouse.webp)
+![Index Lighthouse](media/accesable/index-lighthouse_.png)
 ![Index Wave](media/accesable/index_wave.webp)
 
 
