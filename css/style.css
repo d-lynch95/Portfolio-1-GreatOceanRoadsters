@@ -136,8 +136,8 @@ nav ul li a {
     width: 100%;
     top: 0;
     left: 0;
-    background: grey; 
-    color: grey;
+    background: black; 
+    color: black;
     display:flex;
     align-items: center;
     justify-content: center;
