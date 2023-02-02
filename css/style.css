@@ -132,11 +132,6 @@ nav ul li a {
     z-index:1;
 }
 
-/* #background {
-    background-color:black;
-    z-index: -3;
-} */
-
 
 @media only screen and (max-width: 768px) {
 
@@ -224,8 +219,8 @@ nav ul li a {
 }
 
 .index-cta {
-    background-color: #199319;
-  color: white;
+    background-color: #1FB71F;
+  color: black;
   padding: 15px 25px;
   text-decoration: none;
   cursor: pointer;
